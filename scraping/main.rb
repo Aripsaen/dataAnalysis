@@ -24,8 +24,8 @@ ciudades.each do |ciudad|
   puts "Comenzando a raspar datos para: #{ciudad}"
   all_properties = []
 
-  FileUtils.mkdir_p("datos/json/#{ciudad}")
-  FileUtils.mkdir_p("datos/csv/#{ciudad}")
+  FileUtils.mkdir_p("dataAnalysis/datos/json/#{ciudad}")
+  FileUtils.mkdir_p("dataAnalysis/datos/csv/#{ciudad}")
 
   (1..40).each do |page_number|
     properties = scrape_page(ciudad, page_number)
@@ -36,12 +36,12 @@ ciudades.each do |ciudad|
   end
 
 
-  File.open("datos/json/#{ciudad}/data.json", "w") do |f|
+  File.open("dataAnalysis/datos/json/#{ciudad}/data.json", "w") do |f|
     f.write(JSON.pretty_generate(all_properties))
   end
 
-  
-  CSV.open("datos/csv/#{ciudad}/data.csv", "wb") do |csv|
+
+  CSV.open("dataAnalysis/datos/csv/#{ciudad}/data.csv", "wb") do |csv|
     csv << ["Address", "Property Type", "Bedrooms", "Main Image URL", "Detail URL", "Display Price", "Date Sold"]
     all_properties.each do |property|
       property["transactions"].each do |transaction|
