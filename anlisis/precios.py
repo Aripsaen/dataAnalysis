@@ -3,7 +3,104 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 from statistics import mean
 from datetime import datetime
+import os
 
+
+# Directorio de datos
+path = "datos/json"
+cities = os.listdir(path)
+cities = [{i: os.path.join(path, i, "data.json")} for i in cities]
+
+# Almacenar los resultados del análisis
+city_differences = {}
+
+# Extraer precios y calcular diferencias por ciudad
+for city_dict in cities:
+    for city, file_path in city_dict.items():
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            
+            # Verificar si data es una lista y tomar el primer elemento
+            if isinstance(data, list) and data:
+                data = data[0]  # Tomar el primer diccionario en la lista
+                transactions = data.get("transactions", [])
+
+                # Si hay transacciones, obtener los valores de venta inicial y final
+                if transactions:
+                    initial_price = float(transactions[0].get("displayPrice", "0").replace("£", "").replace(",", ""))
+                    final_price = float(transactions[-1].get("displayPrice", "0").replace("£", "").replace(",", ""))
+                    
+                    # Calcular la diferencia
+                    price_difference = final_price - initial_price
+                    
+                    # Guardar los resultados por ciudad
+                    if city not in city_differences:
+                        city_differences[city] = []
+                    
+                    city_differences[city].append(initial_price)
+                    city_differences[city].append(final_price)
+                    city_differences[city].append(price_difference)
+
+# Preparar datos para graficar
+cities_list = []
+initial_prices = []
+final_prices = []
+price_differences = []
+
+for city, values in city_differences.items():
+    cities_list.append(city)
+    initial_prices.append(sum(values[::3]) / len(values[::3]))  # Promedio de ventas iniciales
+    final_prices.append(sum(values[1::3]) / len(values[1::3]))  # Promedio de ventas finales
+    price_differences.append(sum(values[2::3]) / len(values[2::3]))  # Promedio de las diferencias
+
+# Crear gráfico de barras
+fig, ax = plt.subplots(figsize=(12, 6))
+
+bar_width = 0.25
+index = range(len(cities_list))
+
+# Graficar barras de ventas iniciales, finales y diferencias
+bar1 = ax.bar(index, initial_prices, bar_width, label="Venta Inicial", color='blue')
+bar2 = ax.bar([i + bar_width for i in index], final_prices, bar_width, label="Venta Final", color='green')
+bar3 = ax.bar([i + 2 * bar_width for i in index], price_differences, bar_width, label="Diferencia", color='red')
+
+# Etiquetas y título
+ax.set_xlabel('Ciudad')
+ax.set_ylabel('Precio en £')
+ax.set_title('Comparación de Precios de Venta por Ciudad')
+ax.set_xticks([i + bar_width for i in index])
+ax.set_xticklabels(cities_list, rotation=45, ha="right")
+
+# Agregar leyenda
+ax.legend()
+
+# Mostrar el gráfico
+plt.tight_layout()
+plt.show()
+
+# Ordenar las ciudades según la diferencia de precio y seleccionar las 10 más significativas
+city_differences_sorted = sorted(zip(cities_list, price_differences), key=lambda x: x[1], reverse=True)
+top_10_cities = city_differences_sorted[:10]
+top_10_city_names = [city[0] for city in top_10_cities]
+top_10_price_differences = [city[1] for city in top_10_cities]
+
+# Crear gráfico de barras para las 10 ciudades con mayor diferencia de precio
+fig, ax = plt.subplots(figsize=(12, 6))
+
+ax.bar(top_10_city_names, top_10_price_differences, color='purple')
+
+# Etiquetas y título
+ax.set_xlabel('Ciudad')
+ax.set_ylabel('Diferencia de Precio en £')
+ax.set_title('Top 10 Ciudades con la Mayor Diferencia de Precio')
+
+# Mostrar el gráfico
+plt.tight_layout()
+plt.show()
+
+print(city_differences)
+
+"""
 # Cargar datos desde el primer archivo JSON (primera ciudad)
 with open('dataAnalysis/datos/json/london-87490/data.json', 'r', encoding='utf-8') as file:
     data1 = json.load(file)
@@ -132,3 +229,5 @@ def plot_statistics(area_prices):
 
 # Mostrar el gráfico
 plot_statistics(area_prices)
+
+"""
