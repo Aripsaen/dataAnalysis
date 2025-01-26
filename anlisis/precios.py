@@ -5,7 +5,6 @@ from statistics import mean
 from datetime import datetime
 import os
 
-
 # Directorio de datos
 path = "datos/json"
 cities = os.listdir(path)
@@ -14,8 +13,9 @@ cities = [{i: os.path.join(path, i, "data.json")} for i in cities]
 # Almacenar los resultados del análisis
 city_differences = {}
 city_ages = {}
+transaction_counts = defaultdict(int)  # Para contar las transacciones por ciudad
 
-# Extraer precios, diferencias y antigüedad promedio por ciudad
+# Extraer precios, diferencias, antigüedad promedio y contar ventas/compras por año
 for city_dict in cities:
     for city, file_path in city_dict.items():
         with open(file_path, 'r') as file:
@@ -49,8 +49,11 @@ for city_dict in cities:
                     city_differences[city].append(final_price)
                     city_differences[city].append(price_difference)
                     city_ages[city].append(property_age)
+                    
+                    # Contar transacciones por ciudad (considerando las transacciones por casa)
+                    transaction_counts[city] += len(transactions)
 
-# Preparar datos para graficar
+# Preparar los datos para graficar
 cities_list = []
 initial_prices = []
 final_prices = []
@@ -128,5 +131,25 @@ ax1.set_title('Antigüedad Promedio y Diferencia de Precio por Ciudad (Top 10 Ci
 # Mostrar la leyenda
 fig.tight_layout()
 plt.show()
+
+# Crear gráfico de barras para el número de transacciones por ciudad (todas las ciudades)
+fig, ax = plt.subplots(figsize=(12, 6))
+
+# Graficar las transacciones
+ax.bar(transaction_counts.keys(), transaction_counts.values(), color='skyblue')
+
+# Etiquetas y título
+ax.set_xlabel('Ciudad')
+ax.set_ylabel('Número de Transacciones')
+ax.set_title('Número de Transacciones Inmobiliarias por Ciudad (Todas las Ciudades)')
+
+# Rotar etiquetas del eje x para mejor legibilidad
+plt.xticks(rotation=45, ha="right")
+
+# Mostrar el gráfico
+plt.tight_layout()
+plt.show()
+
 print(city_differences)
 print(city_ages)
+print(transaction_counts)
