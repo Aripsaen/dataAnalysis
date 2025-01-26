@@ -9,7 +9,7 @@ data = data.drop_duplicates()
 # Manejar valores nulos
 data = data.fillna({"Bedrooms": 0, "Display Price": "Unknown"})
 
-# Limpieza de 'Display Price'
+# Limpieza de 'Display Price' para que no salga el simbolo de libra
 data['Display Price'] = (
     data['Display Price']
     .replace('[^\\d.]', '', regex=True)  
