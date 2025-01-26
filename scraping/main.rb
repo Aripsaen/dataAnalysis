@@ -99,7 +99,8 @@ end
 
 puts "Scraping completado."
 
-=begin 
+
+=begin
 
 require 'httparty'
 require 'nokogiri'
