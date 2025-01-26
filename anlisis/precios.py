@@ -5,11 +5,11 @@ from statistics import mean
 from datetime import datetime
 
 # Cargar datos desde el primer archivo JSON (primera ciudad)
-with open('datos/json/london-87490/data.json', 'r') as file:
+with open('dataAnalysis/datos/json/london-87490/data.json', 'r', encoding='utf-8') as file:
     data1 = json.load(file)
 
 # Cargar datos desde el segundo archivo JSON (segunda ciudad)
-with open('datos/json/southwark-85215/data.json', 'r') as file:
+with open('dataAnalysis/datos/json/southwark-85215/data.json', 'r', encoding='utf-8') as file:
     data2 = json.load(file)
 
 # Combinar los datos en un defaultdict

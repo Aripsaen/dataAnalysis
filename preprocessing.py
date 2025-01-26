@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Cargar datos
-data = pd.read_csv('dataAnalysis\datos\csv\london-87490\data.csv')
+data = pd.read_csv('dataAnalysis/datos/csv/london-87490/data.csv')
 
 # Eliminar duplicados
 data = data.drop_duplicates()
@@ -9,13 +9,22 @@ data = data.drop_duplicates()
 # Manejar valores nulos
 data = data.fillna({"Bedrooms": 0, "Display Price": "Unknown"})
 
+# Limpieza de 'Display Price'
+data['Display Price'] = (
+    data['Display Price']
+    .replace('[^\\d.]', '', regex=True)  
+    .replace('', '0')                   
+    .astype(float)                      
+)
+
 # Convertir columnas, por ejemplo, fechas
 data['Date Sold'] = pd.to_datetime(data['Date Sold'], errors='coerce')
 
 # Guardar los datos preprocesados
-data.to_csv('dataAnalysis\datos\csv\london-87490\preprocessed_data.csv', index=False)
+data.to_csv('dataAnalysis/datos/csv/london-87490/preprocessed_data.csv', index=False)
 
 print("Preprocesamiento completado.")
+
 
 # Calcular dias en el mercado
 
