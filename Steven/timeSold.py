@@ -1,7 +1,9 @@
 import json
 from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
 import os
 import re
+import pandas as pd
 
 # Función para redondear años a partir de días
 def calcular_anios(dias):
@@ -171,3 +173,42 @@ precios_promedio_recientes = procesar_ciudades(ciudades_disponibles, directorio_
 with open(os.path.join(directorio_datos, 'precios_promedio_recientes.json'), 'w') as f:
     json.dump(precios_promedio_recientes, f, indent=4)
 print("Resultados de precios promedio recientes guardados en precios_promedio_recientes.json")
+
+
+# Función para graficar los 10 primeros valores de un diccionario
+def graficar_top_10(datos, titulo, xlabel):
+    # Convertir a DataFrame y ordenar
+    df = pd.DataFrame(list(datos.items()), columns=["Ciudad", "Valor"])
+    df = df.sort_values(by="Valor", ascending=False).head(10)
+
+    # Crear la gráfica
+    plt.figure(figsize=(10, 6))
+    plt.barh(df["Ciudad"], df["Valor"], color='skyblue')
+    plt.xlabel(xlabel)
+    plt.ylabel("Ciudad")
+    plt.title(titulo)
+    plt.gca().invert_yaxis()  # Invertir el eje Y para que el mayor valor esté arriba
+    plt.grid(axis='x', linestyle='--', alpha=0.7)
+    plt.show()
+
+# Cargar y graficar los resultados de cada ejercicio
+ejercicios = {
+    "promedios_por_ciudad.json": ("Promedio de Años Entre Transacciones", "Años"),
+    "cambios_precio_por_ciudad.json": ("Porcentaje de Cambio de Precio", "Porcentaje (%)"),
+    "precios_promedio_recientes.json": ("Precios Promedio Recientes", "Precio Promedio")
+}
+
+for archivo, (titulo, xlabel) in ejercicios.items():
+    ruta_archivo = os.path.join("/mnt/data", archivo)
+    
+    if os.path.exists(ruta_archivo):
+        with open(ruta_archivo, 'r') as f:
+            datos = json.load(f)
+        
+        # Filtrar solo valores numéricos y graficar
+        datos_filtrados = {k: v for k, v in datos.items() if isinstance(v, (int, float))}
+        graficar_top_10(datos_filtrados, titulo, xlabel)
+    else:
+        print(f"Archivo {archivo} no encontrado.")
+
+print(2)
