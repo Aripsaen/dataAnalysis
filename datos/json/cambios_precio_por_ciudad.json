@@ -1,307 +1,307 @@
 {
-    "basildon": {
-        "total_propiedades": 762,
-        "porcentaje_aumento": 98.69,
-        "porcentaje_disminucion": 1.18
-    },
-    "birmingham": {
-        "total_propiedades": 821,
-        "porcentaje_aumento": 94.03,
-        "porcentaje_disminucion": 5.97
-    },
-    "blackburn": {
-        "total_propiedades": 716,
-        "porcentaje_aumento": 95.25,
-        "porcentaje_disminucion": 4.19
-    },
-    "blackpool": {
-        "total_propiedades": 822,
-        "porcentaje_aumento": 91.48,
-        "porcentaje_disminucion": 7.91
-    },
-    "bolton": {
-        "total_propiedades": 824,
-        "porcentaje_aumento": 95.63,
-        "porcentaje_disminucion": 3.52
-    },
-    "bournemouth": {
-        "total_propiedades": 830,
-        "porcentaje_aumento": 96.51,
-        "porcentaje_disminucion": 3.25
-    },
-    "bradford": {
-        "total_propiedades": 846,
-        "porcentaje_aumento": 94.09,
-        "porcentaje_disminucion": 5.44
-    },
-    "brighton": {
-        "total_propiedades": 804,
-        "porcentaje_aumento": 98.51,
-        "porcentaje_disminucion": 1.24
-    },
-    "bristol": {
-        "total_propiedades": 878,
-        "porcentaje_aumento": 97.61,
-        "porcentaje_disminucion": 2.28
-    },
-    "cambridge": {
-        "total_propiedades": 753,
-        "porcentaje_aumento": 95.75,
-        "porcentaje_disminucion": 3.59
-    },
-    "chelmsford": {
-        "total_propiedades": 779,
-        "porcentaje_aumento": 94.99,
-        "porcentaje_disminucion": 4.75
-    },
-    "colchester": {
-        "total_propiedades": 867,
-        "porcentaje_aumento": 95.85,
-        "porcentaje_disminucion": 3.69
-    },
-    "coventry": {
-        "total_propiedades": 797,
-        "porcentaje_aumento": 96.61,
-        "porcentaje_disminucion": 2.89
-    },
-    "crawley": {
-        "total_propiedades": 764,
-        "porcentaje_aumento": 95.68,
-        "porcentaje_disminucion": 3.93
-    },
-    "derby": {
-        "total_propiedades": 823,
-        "porcentaje_aumento": 97.21,
-        "porcentaje_disminucion": 2.67
-    },
-    "dudley": {
-        "total_propiedades": 672,
-        "porcentaje_aumento": 97.47,
-        "porcentaje_disminucion": 2.38
-    },
-    "eastbourne": {
-        "total_propiedades": 845,
-        "porcentaje_aumento": 96.57,
-        "porcentaje_disminucion": 3.31
-    },
-    "exeter": {
-        "total_propiedades": 800,
-        "porcentaje_aumento": 97.88,
-        "porcentaje_disminucion": 1.88
-    },
-    "gloucester": {
-        "total_propiedades": 850,
-        "porcentaje_aumento": 96.94,
-        "porcentaje_disminucion": 2.94
-    },
-    "halifax": {
-        "total_propiedades": 783,
-        "porcentaje_aumento": 93.87,
-        "porcentaje_disminucion": 5.75
-    },
-    "huddersfield": {
-        "total_propiedades": 758,
-        "porcentaje_aumento": 94.06,
-        "porcentaje_disminucion": 5.41
-    },
-    "ipswich": {
-        "total_propiedades": 800,
-        "porcentaje_aumento": 94.62,
-        "porcentaje_disminucion": 5.25
-    },
-    "kingston-upon-hull": {
-        "total_propiedades": 829,
-        "porcentaje_aumento": 95.17,
-        "porcentaje_disminucion": 4.34
-    },
-    "leeds": {
-        "total_propiedades": 857,
-        "porcentaje_aumento": 96.97,
-        "porcentaje_disminucion": 2.68
-    },
-    "leicester": {
-        "total_propiedades": 798,
-        "porcentaje_aumento": 97.12,
-        "porcentaje_disminucion": 2.63
-    },
-    "london": {
-        "total_propiedades": 883,
-        "porcentaje_aumento": 91.96,
-        "porcentaje_disminucion": 7.47
-    },
-    "luton": {
-        "total_propiedades": 738,
-        "porcentaje_aumento": 96.75,
-        "porcentaje_disminucion": 2.98
-    },
-    "maidstone": {
-        "total_propiedades": 781,
-        "porcentaje_aumento": 96.67,
-        "porcentaje_disminucion": 3.07
-    },
-    "manchester": {
-        "total_propiedades": 855,
-        "porcentaje_aumento": 95.79,
-        "porcentaje_disminucion": 4.21
-    },
-    "middlesbrough": {
-        "total_propiedades": 747,
-        "porcentaje_aumento": 89.69,
-        "porcentaje_disminucion": 9.64
-    },
-    "milton-keynes": {
-        "total_propiedades": 898,
-        "porcentaje_aumento": 95.55,
-        "porcentaje_disminucion": 4.01
-    },
     "newcastle-upon-tyne": {
         "total_propiedades": 867,
         "porcentaje_aumento": 93.31,
         "porcentaje_disminucion": 6.46
-    },
-    "northampton": {
-        "total_propiedades": 860,
-        "porcentaje_aumento": 97.79,
-        "porcentaje_disminucion": 2.09
-    },
-    "norwich": {
-        "total_propiedades": 857,
-        "porcentaje_aumento": 96.85,
-        "porcentaje_disminucion": 2.8
-    },
-    "nottingham": {
-        "total_propiedades": 848,
-        "porcentaje_aumento": 97.41,
-        "porcentaje_disminucion": 2.48
-    },
-    "oldham": {
-        "total_propiedades": 740,
-        "porcentaje_aumento": 97.57,
-        "porcentaje_disminucion": 2.16
-    },
-    "oxford": {
-        "total_propiedades": 757,
-        "porcentaje_aumento": 98.28,
-        "porcentaje_disminucion": 1.06
-    },
-    "peterborough": {
-        "total_propiedades": 778,
-        "porcentaje_aumento": 95.89,
-        "porcentaje_disminucion": 3.86
-    },
-    "plymouth": {
-        "total_propiedades": 870,
-        "porcentaje_aumento": 97.24,
-        "porcentaje_disminucion": 2.3
-    },
-    "poole": {
-        "total_propiedades": 821,
-        "porcentaje_aumento": 96.1,
-        "porcentaje_disminucion": 3.53
-    },
-    "portsmouth": {
-        "total_propiedades": 846,
-        "porcentaje_aumento": 96.34,
-        "porcentaje_disminucion": 3.43
-    },
-    "preston": {
-        "total_propiedades": 764,
-        "porcentaje_aumento": 93.85,
-        "porcentaje_disminucion": 5.76
-    },
-    "reading": {
-        "total_propiedades": 842,
-        "porcentaje_aumento": 95.84,
-        "porcentaje_disminucion": 3.92
-    },
-    "rotherham": {
-        "total_propiedades": 785,
-        "porcentaje_aumento": 95.54,
-        "porcentaje_disminucion": 4.2
-    },
-    "saint-helens": {
-        "total_propiedades": 0,
-        "porcentaje_aumento": 0,
-        "porcentaje_disminucion": 0
     },
     "sheffield": {
         "total_propiedades": 848,
         "porcentaje_aumento": 96.23,
         "porcentaje_disminucion": 3.3
     },
-    "slough": {
-        "total_propiedades": 700,
-        "porcentaje_aumento": 96.29,
-        "porcentaje_disminucion": 3.29
+    "dudley": {
+        "total_propiedades": 672,
+        "porcentaje_aumento": 97.47,
+        "porcentaje_disminucion": 2.38
     },
-    "solihull": {
-        "total_propiedades": 669,
-        "porcentaje_aumento": 93.12,
-        "porcentaje_disminucion": 6.28
+    "poole": {
+        "total_propiedades": 821,
+        "porcentaje_aumento": 96.1,
+        "porcentaje_disminucion": 3.53
     },
-    "southampton": {
-        "total_propiedades": 847,
-        "porcentaje_aumento": 95.99,
-        "porcentaje_disminucion": 3.66
+    "nottingham": {
+        "total_propiedades": 848,
+        "porcentaje_aumento": 97.41,
+        "porcentaje_disminucion": 2.48
     },
-    "southend-on-sea": {
-        "total_propiedades": 782,
-        "porcentaje_aumento": 97.31,
-        "porcentaje_disminucion": 2.17
+    "halifax": {
+        "total_propiedades": 783,
+        "porcentaje_aumento": 93.87,
+        "porcentaje_disminucion": 5.75
     },
-    "stockport": {
-        "total_propiedades": 850,
-        "porcentaje_aumento": 97.65,
-        "porcentaje_disminucion": 2.24
+    "portsmouth": {
+        "total_propiedades": 846,
+        "porcentaje_aumento": 96.34,
+        "porcentaje_disminucion": 3.43
     },
-    "stoke-on-trent": {
-        "total_propiedades": 780,
-        "porcentaje_aumento": 95.0,
-        "porcentaje_disminucion": 4.62
+    "bradford": {
+        "total_propiedades": 846,
+        "porcentaje_aumento": 94.09,
+        "porcentaje_disminucion": 5.44
     },
-    "sunderland": {
-        "total_propiedades": 737,
-        "porcentaje_aumento": 89.01,
-        "porcentaje_disminucion": 10.31
+    "ipswich": {
+        "total_propiedades": 800,
+        "porcentaje_aumento": 94.62,
+        "porcentaje_disminucion": 5.25
+    },
+    "rotherham": {
+        "total_propiedades": 785,
+        "porcentaje_aumento": 95.54,
+        "porcentaje_disminucion": 4.2
+    },
+    "swindon": {
+        "total_propiedades": 71,
+        "porcentaje_aumento": 94.37,
+        "porcentaje_disminucion": 5.63
+    },
+    "exeter": {
+        "total_propiedades": 800,
+        "porcentaje_aumento": 97.88,
+        "porcentaje_disminucion": 1.88
     },
     "sutton-coldfield": {
         "total_propiedades": 745,
         "porcentaje_aumento": 95.57,
         "porcentaje_disminucion": 4.03
     },
-    "swindon": {
-        "total_propiedades": 880,
-        "porcentaje_aumento": 95.45,
-        "porcentaje_disminucion": 4.32
+    "manchester": {
+        "total_propiedades": 855,
+        "porcentaje_aumento": 95.79,
+        "porcentaje_disminucion": 4.21
     },
-    "telford": {
-        "total_propiedades": 816,
-        "porcentaje_aumento": 98.04,
-        "porcentaje_disminucion": 1.84
+    "solihull": {
+        "total_propiedades": 669,
+        "porcentaje_aumento": 93.12,
+        "porcentaje_disminucion": 6.28
+    },
+    "blackburn": {
+        "total_propiedades": 716,
+        "porcentaje_aumento": 95.25,
+        "porcentaje_disminucion": 4.19
     },
     "walsall": {
         "total_propiedades": 683,
         "porcentaje_aumento": 93.27,
         "porcentaje_disminucion": 6.3
     },
-    "watford": {
+    "eastbourne": {
+        "total_propiedades": 845,
+        "porcentaje_aumento": 96.57,
+        "porcentaje_disminucion": 3.31
+    },
+    "preston": {
+        "total_propiedades": 764,
+        "porcentaje_aumento": 93.85,
+        "porcentaje_disminucion": 5.76
+    },
+    "oxford": {
+        "total_propiedades": 757,
+        "porcentaje_aumento": 98.28,
+        "porcentaje_disminucion": 1.06
+    },
+    "blackpool": {
+        "total_propiedades": 822,
+        "porcentaje_aumento": 91.48,
+        "porcentaje_disminucion": 7.91
+    },
+    "kingston-upon-hull": {
+        "total_propiedades": 829,
+        "porcentaje_aumento": 95.17,
+        "porcentaje_disminucion": 4.34
+    },
+    "luton": {
+        "total_propiedades": 707,
+        "porcentaje_aumento": 96.61,
+        "porcentaje_disminucion": 3.11
+    },
+    "leicester": {
+        "total_propiedades": 798,
+        "porcentaje_aumento": 97.12,
+        "porcentaje_disminucion": 2.63
+    },
+    "middlesbrough": {
+        "total_propiedades": 747,
+        "porcentaje_aumento": 89.69,
+        "porcentaje_disminucion": 9.64
+    },
+    "gloucester": {
+        "total_propiedades": 850,
+        "porcentaje_aumento": 96.94,
+        "porcentaje_disminucion": 2.94
+    },
+    "reading": {
+        "total_propiedades": 385,
+        "porcentaje_aumento": 94.29,
+        "porcentaje_disminucion": 5.45
+    },
+    "colchester": {
+        "total_propiedades": 867,
+        "porcentaje_aumento": 95.85,
+        "porcentaje_disminucion": 3.69
+    },
+    "basildon": {
         "total_propiedades": 762,
-        "porcentaje_aumento": 95.28,
-        "porcentaje_disminucion": 4.2
+        "porcentaje_aumento": 98.69,
+        "porcentaje_disminucion": 1.18
+    },
+    "sunderland": {
+        "total_propiedades": 737,
+        "porcentaje_aumento": 89.01,
+        "porcentaje_disminucion": 10.31
+    },
+    "leeds": {
+        "total_propiedades": 857,
+        "porcentaje_aumento": 96.97,
+        "porcentaje_disminucion": 2.68
+    },
+    "slough": {
+        "total_propiedades": 700,
+        "porcentaje_aumento": 96.29,
+        "porcentaje_disminucion": 3.29
+    },
+    "maidstone": {
+        "total_propiedades": 781,
+        "porcentaje_aumento": 96.67,
+        "porcentaje_disminucion": 3.07
     },
     "west-bromwich": {
         "total_propiedades": 543,
         "porcentaje_aumento": 92.63,
         "porcentaje_disminucion": 6.63
     },
-    "wolverhampton": {
-        "total_propiedades": 700,
-        "porcentaje_aumento": 95.86,
+    "milton-keynes": {
+        "total_propiedades": 897,
+        "porcentaje_aumento": 95.32,
+        "porcentaje_disminucion": 4.24
+    },
+    "london": {
+        "total_propiedades": 883,
+        "porcentaje_aumento": 91.96,
+        "porcentaje_disminucion": 7.47
+    },
+    "coventry": {
+        "total_propiedades": 797,
+        "porcentaje_aumento": 96.61,
+        "porcentaje_disminucion": 2.89
+    },
+    "bolton": {
+        "total_propiedades": 824,
+        "porcentaje_aumento": 95.63,
+        "porcentaje_disminucion": 3.52
+    },
+    "stoke-on-trent": {
+        "total_propiedades": 727,
+        "porcentaje_aumento": 95.19,
+        "porcentaje_disminucion": 4.54
+    },
+    "southend-on-sea": {
+        "total_propiedades": 782,
+        "porcentaje_aumento": 97.31,
+        "porcentaje_disminucion": 2.17
+    },
+    "peterborough": {
+        "total_propiedades": 778,
+        "porcentaje_aumento": 95.89,
         "porcentaje_disminucion": 3.86
+    },
+    "southampton": {
+        "total_propiedades": 847,
+        "porcentaje_aumento": 95.99,
+        "porcentaje_disminucion": 3.66
     },
     "york": {
         "total_propiedades": 824,
         "porcentaje_aumento": 98.3,
         "porcentaje_disminucion": 1.7
+    },
+    "saint-helens": {
+        "total_propiedades": 0,
+        "porcentaje_aumento": 0,
+        "porcentaje_disminucion": 0
+    },
+    "telford": {
+        "total_propiedades": 816,
+        "porcentaje_aumento": 98.04,
+        "porcentaje_disminucion": 1.84
+    },
+    "stockport": {
+        "total_propiedades": 850,
+        "porcentaje_aumento": 97.65,
+        "porcentaje_disminucion": 2.24
+    },
+    "norwich": {
+        "total_propiedades": 857,
+        "porcentaje_aumento": 96.85,
+        "porcentaje_disminucion": 2.8
+    },
+    "huddersfield": {
+        "total_propiedades": 758,
+        "porcentaje_aumento": 94.06,
+        "porcentaje_disminucion": 5.41
+    },
+    "cambridge": {
+        "total_propiedades": 753,
+        "porcentaje_aumento": 95.75,
+        "porcentaje_disminucion": 3.59
+    },
+    "crawley": {
+        "total_propiedades": 764,
+        "porcentaje_aumento": 95.68,
+        "porcentaje_disminucion": 3.93
+    },
+    "chelmsford": {
+        "total_propiedades": 779,
+        "porcentaje_aumento": 94.99,
+        "porcentaje_disminucion": 4.75
+    },
+    "watford": {
+        "total_propiedades": 762,
+        "porcentaje_aumento": 95.28,
+        "porcentaje_disminucion": 4.2
+    },
+    "bournemouth": {
+        "total_propiedades": 830,
+        "porcentaje_aumento": 96.51,
+        "porcentaje_disminucion": 3.25
+    },
+    "wolverhampton": {
+        "total_propiedades": 320,
+        "porcentaje_aumento": 96.25,
+        "porcentaje_disminucion": 3.12
+    },
+    "northampton": {
+        "total_propiedades": 860,
+        "porcentaje_aumento": 97.67,
+        "porcentaje_disminucion": 2.21
+    },
+    "bristol": {
+        "total_propiedades": 878,
+        "porcentaje_aumento": 97.61,
+        "porcentaje_disminucion": 2.28
+    },
+    "plymouth": {
+        "total_propiedades": 870,
+        "porcentaje_aumento": 97.24,
+        "porcentaje_disminucion": 2.3
+    },
+    "birmingham": {
+        "total_propiedades": 821,
+        "porcentaje_aumento": 94.03,
+        "porcentaje_disminucion": 5.97
+    },
+    "brighton": {
+        "total_propiedades": 804,
+        "porcentaje_aumento": 98.51,
+        "porcentaje_disminucion": 1.24
+    },
+    "oldham": {
+        "total_propiedades": 723,
+        "porcentaje_aumento": 97.51,
+        "porcentaje_disminucion": 2.21
+    },
+    "derby": {
+        "total_propiedades": 824,
+        "porcentaje_aumento": 97.21,
+        "porcentaje_disminucion": 2.67
     }
 }

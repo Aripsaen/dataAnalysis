@@ -199,7 +199,7 @@ ejercicios = {
 }
 
 for archivo, (titulo, xlabel) in ejercicios.items():
-    ruta_archivo = os.path.join("/mnt/data", archivo)
+    ruta_archivo = os.path.join("datos","json", archivo)
     
     if os.path.exists(ruta_archivo):
         with open(ruta_archivo, 'r') as f:
@@ -211,4 +211,3 @@ for archivo, (titulo, xlabel) in ejercicios.items():
     else:
         print(f"Archivo {archivo} no encontrado.")
 
-print(2)
