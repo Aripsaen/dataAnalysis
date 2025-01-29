@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import os
 import re
 import pandas as pd
+import numpy as np
 
 # Función para redondear años a partir de días
 def calcular_anios(dias):
@@ -214,3 +215,36 @@ for archivo, (titulo, xlabel) in ejercicios.items():
     else:
         print(f"Archivo {archivo} no encontrado.")
 
+
+
+
+# Ruta del archivo JSON (ajústala según tu sistema)
+archivo_json = "dataAnalysis/Steven/json/cambios_precio_por_ciudad.json"
+
+# Cargar los datos desde el archivo JSON
+with open(archivo_json, "r") as f:
+    cambios_precio = json.load(f)
+
+# Extraer datos de aumento y disminución
+ciudades = list(cambios_precio.keys())
+aumentos = [cambios_precio[ciudad]["porcentaje_aumento"] for ciudad in ciudades]
+disminuciones = [cambios_precio[ciudad]["porcentaje_disminucion"] for ciudad in ciudades]
+
+# Posiciones para las barras
+x = np.arange(len(ciudades))
+
+# Crear gráfico de barras agrupadas
+fig, ax = plt.subplots(figsize=(12, 6))
+ax.bar(x - 0.2, aumentos, width=0.4, label='% Aumento', color='skyblue')
+ax.bar(x + 0.2, disminuciones, width=0.4, label='% Disminución', color='salmon')
+
+# Configuración de etiquetas y títulos
+ax.set_xlabel("Ciudades")
+ax.set_ylabel("Porcentaje")
+ax.set_title("Porcentaje de Aumento y Disminución de Precios por Ciudad")
+ax.set_xticks(x)
+ax.set_xticklabels(ciudades, rotation=45, ha="right")
+ax.legend()
+
+# Mostrar gráfico
+plt.show()
