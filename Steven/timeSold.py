@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 import os
 import re
+
 import pandas as pd
 
 # Función para redondear años a partir de días
@@ -117,7 +118,7 @@ def calcular_precio_promedio_reciente(data):
     return 0
 
 # Configurar el directorio base relativo al script actual
-directorio_datos = os.path.join(os.path.dirname(__file__), '..', 'datos', 'json')
+directorio_datos = os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json')
 
 # Verificar si el directorio base existe
 if not os.path.exists(directorio_datos):
@@ -174,7 +175,7 @@ with open(os.path.join(directorio_datos, 'precios_promedio_recientes.json'), 'w'
     json.dump(precios_promedio_recientes, f, indent=4)
 print("Resultados de precios promedio recientes guardados en precios_promedio_recientes.json")
 
-
+"""
 # Función para graficar los 10 primeros valores de un diccionario
 def graficar_top_10(datos, titulo, xlabel):
     # Convertir a DataFrame y ordenar
@@ -199,7 +200,7 @@ ejercicios = {
 }
 
 for archivo, (titulo, xlabel) in ejercicios.items():
-    ruta_archivo = os.path.join("/mnt/data", archivo)
+    ruta_archivo = os.path.join("dataAnalysis/datos/json/promedios_por_ciudad.json", archivo)
     
     if os.path.exists(ruta_archivo):
         with open(ruta_archivo, 'r') as f:
@@ -210,5 +211,4 @@ for archivo, (titulo, xlabel) in ejercicios.items():
         graficar_top_10(datos_filtrados, titulo, xlabel)
     else:
         print(f"Archivo {archivo} no encontrado.")
-
-print(2)
+"""
