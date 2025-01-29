@@ -216,24 +216,27 @@ for archivo, (titulo, xlabel) in ejercicios.items():
 
 
 
-
 # Ruta del archivo JSON (ajústala según tu sistema)
-archivo_json = os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json',"cambios_precio_por_ciudad.json")
-
+archivo_json = os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json', "cambios_precio_por_ciudad.json")
 
 # Cargar los datos desde el archivo JSON
 with open(archivo_json, "r") as f:
     cambios_precio = json.load(f)
 
-# Extraer datos de aumento y disminución
-ciudades = list(cambios_precio.keys())
-aumentos = [cambios_precio[ciudad]["porcentaje_aumento"] for ciudad in ciudades]
-disminuciones = [cambios_precio[ciudad]["porcentaje_disminucion"] for ciudad in ciudades]
+# Seleccionar solo las primeras 10 ciudades en el orden en que aparecen
+ciudades = list(cambios_precio.keys())[:10]
+aumentos = [cambios_precio[ciudad]["porcentaje_aumento"] for ciudad in ciudades[:10]]
+disminuciones = [cambios_precio[ciudad]["porcentaje_disminucion"] for ciudad in ciudades[:10]]
+
+# Limitar los datos a solo las primeras 10 ciudades
+ciudades = ciudades[:10]
+aumentos = aumentos[:10]
+disminuciones = disminuciones[:10]
 
 # Posiciones para las barras
 x = np.arange(len(ciudades))
 
-# Crear gráfico de barras agrupadas
+# Crear gráfico de barras agrupadas con las primeras 10 ciudades
 fig, ax = plt.subplots(figsize=(12, 6))
 ax.bar(x - 0.2, aumentos, width=0.4, label='% Aumento', color='skyblue')
 ax.bar(x + 0.2, disminuciones, width=0.4, label='% Disminución', color='salmon')
@@ -241,7 +244,7 @@ ax.bar(x + 0.2, disminuciones, width=0.4, label='% Disminución', color='salmon'
 # Configuración de etiquetas y títulos
 ax.set_xlabel("Ciudades")
 ax.set_ylabel("Porcentaje")
-ax.set_title("Porcentaje de Aumento y Disminución de Precios por Ciudad")
+ax.set_title("Porcentaje de Aumento y Disminución de Precios (Primeras 10 Ciudades)")
 ax.set_xticks(x)
 ax.set_xticklabels(ciudades, rotation=45, ha="right")
 ax.legend()
