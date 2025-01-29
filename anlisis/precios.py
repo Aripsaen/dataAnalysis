@@ -6,7 +6,7 @@ from datetime import datetime
 import os
 
 # Directorio de datos
-path = "datos/json"
+path = os.path.join("datos","json")
 cities = os.listdir(path)
 cities = [{i: os.path.join(path, i, "data.json")} for i in cities]
 
@@ -112,3 +112,4 @@ ax.set_title('Número de Transacciones Inmobiliarias por Ciudad (Top 10)')
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.show()
+    
