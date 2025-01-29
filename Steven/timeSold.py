@@ -118,6 +118,7 @@ def calcular_precio_promedio_reciente(data):
 
 # Configurar el directorio base relativo al script actual
 directorio_datos = os.path.join(os.path.dirname(__file__), '..', 'datos', 'json')
+directorio_destino =os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json')
 
 # Verificar si el directorio base existe
 if not os.path.exists(directorio_datos):
@@ -154,7 +155,7 @@ promedios_por_ciudad = {
     ciudad: round(sum(anios) / len(anios), 2) if anios else 0
     for ciudad, anios in anios_por_ciudad.items()
 }
-with open(os.path.join(directorio_datos, 'promedios_por_ciudad.json'), 'w') as f:
+with open(os.path.join(directorio_destino, 'promedios_por_ciudad.json'), 'w') as f:
     json.dump(promedios_por_ciudad, f, indent=4)
 print("Resultados de años guardados en promedios_por_ciudad.json")
 
@@ -162,7 +163,7 @@ print("Resultados de años guardados en promedios_por_ciudad.json")
 resultados_por_ciudad = procesar_ciudades(ciudades_disponibles, directorio_datos, procesar_cambios_porcentuales)
 
 # Guardar resultados de cambios de precio
-with open(os.path.join(directorio_datos, 'cambios_precio_por_ciudad.json'), 'w') as f:
+with open(os.path.join(directorio_destino, 'cambios_precio_por_ciudad.json'), 'w') as f:
     json.dump(resultados_por_ciudad, f, indent=4)
 print("Resultados de cambios guardados en cambios_precio_por_ciudad.json")
 
@@ -170,7 +171,7 @@ print("Resultados de cambios guardados en cambios_precio_por_ciudad.json")
 precios_promedio_recientes = procesar_ciudades(ciudades_disponibles, directorio_datos, calcular_precio_promedio_reciente)
 
 # Guardar resultados de precios promedio recientes
-with open(os.path.join(directorio_datos, 'precios_promedio_recientes.json'), 'w') as f:
+with open(os.path.join(directorio_destino, 'precios_promedio_recientes.json'), 'w') as f:
     json.dump(precios_promedio_recientes, f, indent=4)
 print("Resultados de precios promedio recientes guardados en precios_promedio_recientes.json")
 
@@ -199,7 +200,7 @@ ejercicios = {
 }
 
 for archivo, (titulo, xlabel) in ejercicios.items():
-    ruta_archivo = os.path.join("datos","json", archivo)
+    ruta_archivo = os.path.join("Steven","json", archivo)
     
     if os.path.exists(ruta_archivo):
         with open(ruta_archivo, 'r') as f:
