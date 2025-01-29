@@ -854,28 +854,46 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925519?s=ac558d35d61bc8f67aa52ec8c7bf888b9109aea85b564378d558101cdb1ce83e"
   },
   {
-    "address": "3, Worcester Crescent, Derby, City Of Derby DE21 4ER",
+    "address": "9, Eastcroft Avenue, Littleover, Derby, City Of Derby DE23 1NL",
     "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
+    "bedrooms": 2,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/85k/84361/145493981/84361_32946900_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/85k/84361/145493981/84361_32946900_IMG_00_0000_max_296x197.jpeg",
-      "count": 13
+      "imageUrl": "https://media.rightmove.co.uk/dir/130k/129349/148518881/129349_101457008193_IMG_05_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/130k/129349/148518881/129349_101457008193_IMG_05_0000_max_296x197.jpeg",
+      "count": 20
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£150,000",
+        "displayPrice": "£237,500",
         "dateSold": "13 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£161,000",
+        "dateSold": "23 Mar 2018",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£109,000",
+        "dateSold": "3 Feb 2006",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£105,000",
+        "dateSold": "9 Dec 2005",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.93688,
-      "lng": -1.45361
+      "lat": 52.88476,
+      "lng": -1.49721
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145493981-21924904?s=883b75a597eacd6e7d4a1e3d0b6aea5e1c2c4c18dc9d53949267e1096323d9b3"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148518881-21925447?s=fc203df50241ee5cfb5e30d5bb36ff03681fecfe84ac843b653e3956ecb1bf39"
   },
   {
     "address": "1, Sheffield Place, Derby, City Of Derby DE1 2RW",
@@ -1402,6 +1420,32 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925225?s=ab057504eebc03751a327767a40cdedc0526767885a122abaea62a0463589f7b"
   },
   {
+    "address": "32, Ludlow Road, Littleover, Derby, Derbyshire DE23 3AH",
+    "propertyType": "TERRACED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£205,999",
+        "dateSold": "7 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£175,000",
+        "dateSold": "29 Oct 2018",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.88642,
+      "lng": -1.53019
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925483?s=961cf2c6461012916a6ade550c32f538761e87ff68e017b671c0b1c9ab90da45"
+  },
+  {
     "address": "7, Finsbury Avenue, Derby, City Of Derby DE22 4BT",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -1430,32 +1474,6 @@
       "lng": -1.51443
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145211801-21925357?s=e6151d5d364b3fe6669508ccfecaf0d5b931d798f2352f6a562520df0191653b"
-  },
-  {
-    "address": "32, Ludlow Road, Littleover, Derby, Derbyshire DE23 3AH",
-    "propertyType": "TERRACED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£205,999",
-        "dateSold": "7 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£175,000",
-        "dateSold": "29 Oct 2018",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.88642,
-      "lng": -1.53019
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925483?s=961cf2c6461012916a6ade550c32f538761e87ff68e017b671c0b1c9ab90da45"
   },
   {
     "address": "11, Sundown Avenue, Littleover, Derby, City Of Derby DE23 1GY",
@@ -1678,6 +1696,42 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21927886?s=c07f333eb8067a57214e5b1ef6fb8d05c3d2a0dd93ce757c106ff209d04cfb34"
   },
   {
+    "address": "3, Church Lane North, Darley Abbey, Derby, City Of Derby DE22 1EU",
+    "propertyType": "TERRACED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/11k/10756/150237461/10756_DYC240263_IMG_12_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/11k/10756/150237461/10756_DYC240263_IMG_12_0000_max_296x197.jpeg",
+      "count": 12
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£190,000",
+        "dateSold": "6 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£125,000",
+        "dateSold": "27 Jul 2012",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£58,000",
+        "dateSold": "4 Dec 2000",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.9487,
+      "lng": -1.48248
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150237461-21925126?s=7d5af0e1fd0cfbed720195ee05fd8e09668a409e46db9dca048b2d27cda9426e"
+  },
+  {
     "address": "12, Sturston Close, Stenson Fields, Derby, Derbyshire DE24 3FR",
     "propertyType": "TERRACED",
     "bedrooms": null,
@@ -1726,38 +1780,6 @@
       "lng": -1.40902
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-149880212-21925699?s=aebda538899f5c444a4044b5b4fa6d097e7c183455eb4a029b1935c19763a02a"
-  },
-  {
-    "address": "2, Rewley Court, Chellaston, Derby, City Of Derby DE73 6WH",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£195,000",
-        "dateSold": "6 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£181,000",
-        "dateSold": "9 Mar 2022",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£103,250",
-        "dateSold": "16 Mar 2018",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.87837,
-      "lng": -1.43562
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21927886?s=c07f333eb8067a57214e5b1ef6fb8d05c3d2a0dd93ce757c106ff209d04cfb34"
   },
   {
     "address": "1, Ladycroft Paddock, Allestree, Derby, City Of Derby DE22 2GA",
@@ -1874,42 +1896,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150920123-21924907?s=339bfb2cf6e18aa53571a79d61521d394b157674b41d1f22dd6f4e394d167d9e"
   },
   {
-    "address": "3, Clifton Road, Allestree, Derby, City Of Derby DE22 2PJ",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/144808343/104491_NVB-9357176_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/144808343/104491_NVB-9357176_IMG_00_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£260,000",
-        "dateSold": "4 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£185,000",
-        "dateSold": "22 Aug 2016",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£147,500",
-        "dateSold": "16 Nov 2012",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94839,
-      "lng": -1.49529
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144808343-21925201?s=f03c2b4756dbb4586a6ed9856a6af8364ceb01d7342e8d165e574dadab3184e6"
-  },
-  {
     "address": "151, Wood Road, Chaddesden, Derby, City Of Derby DE21 4PH",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -1956,6 +1942,78 @@
       "lng": -1.54085
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-151717829-21926068?s=f9d440caf1e8d7271585f546ad58ba85b47638e12ddee53e435f83a506852e2c"
+  },
+  {
+    "address": "45, The Crescent, Chaddesden, Derby, City Of Derby DE21 6QD",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/151058408/7007_JFH-81593230_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/151058408/7007_JFH-81593230_IMG_00_0000_max_296x197.jpeg",
+      "count": 11
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£152,000",
+        "dateSold": "4 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£90,000",
+        "dateSold": "15 Nov 2010",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£124,950",
+        "dateSold": "6 Jul 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92306,
+      "lng": -1.43876
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-151058408-21925003?s=6a7cab2237957b06f70e2a8f339045539d3847116e0139ac0dc04e960ccbb643"
+  },
+  {
+    "address": "3, Clifton Road, Allestree, Derby, City Of Derby DE22 2PJ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/144808343/104491_NVB-9357176_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/144808343/104491_NVB-9357176_IMG_00_0000_max_296x197.jpeg",
+      "count": 20
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£260,000",
+        "dateSold": "4 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£185,000",
+        "dateSold": "22 Aug 2016",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£147,500",
+        "dateSold": "16 Nov 2012",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94839,
+      "lng": -1.49529
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144808343-21925201?s=f03c2b4756dbb4586a6ed9856a6af8364ceb01d7342e8d165e574dadab3184e6"
   },
   {
     "address": "37, Snelsmoor Lane, Chellaston, Derby, City Of Derby DE73 6NQ",
@@ -2028,102 +2086,6 @@
       "lng": -1.39747
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146907839-21925081?s=3e4188d3c9521dec648f30d3911343ef98e18e404af153fd18eb4b8cb8b65191"
-  },
-  {
-    "address": "45, The Crescent, Chaddesden, Derby, City Of Derby DE21 6QD",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/151058408/7007_JFH-81593230_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/151058408/7007_JFH-81593230_IMG_00_0000_max_296x197.jpeg",
-      "count": 11
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£152,000",
-        "dateSold": "4 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£90,000",
-        "dateSold": "15 Nov 2010",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£124,950",
-        "dateSold": "6 Jul 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92306,
-      "lng": -1.43876
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-151058408-21925003?s=6a7cab2237957b06f70e2a8f339045539d3847116e0139ac0dc04e960ccbb643"
-  },
-  {
-    "address": "90, Locko Road, Spondon, Derby, City Of Derby DE21 7AQ",
-    "propertyType": "DETACHED",
-    "bedrooms": 4,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/145474004/7007_JFH-18935890_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/145474004/7007_JFH-18935890_IMG_00_0000_max_296x197.jpeg",
-      "count": 18
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£380,000",
-        "dateSold": "4 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92515,
-      "lng": -1.40556
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145474004-21925033?s=daa2a6d499c282ce7bf898698cb77ed63a41943fc915d1beea9405bb3428ba6c"
-  },
-  {
-    "address": "16, Masefield Avenue, Derby, City Of Derby DE23 1GP",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/21k/20678/142947218/20678_MVY-11777098_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/21k/20678/142947218/20678_MVY-11777098_IMG_00_0000_max_296x197.jpeg",
-      "count": 12
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£175,000",
-        "dateSold": "4 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£137,000",
-        "dateSold": "18 Sep 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£34,500",
-        "dateSold": "11 Dec 1998",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89481,
-      "lng": -1.49249
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142947218-21925417?s=4c87d23c5df434cf5e3116a7e1dc221c34431137de3a54478602fa2954e23a11"
   },
   {
     "address": "8, Merchant Avenue, Spondon, Derby, City Of Derby DE21 7NA",
@@ -2214,6 +2176,66 @@
       "lng": -1.42444
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-149335550-21924883?s=e079b95f235373bf8b69c6a8439eb0728d6abf8b90b0704654e7e680b9068514"
+  },
+  {
+    "address": "90, Locko Road, Spondon, Derby, City Of Derby DE21 7AQ",
+    "propertyType": "DETACHED",
+    "bedrooms": 4,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/145474004/7007_JFH-18935890_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/145474004/7007_JFH-18935890_IMG_00_0000_max_296x197.jpeg",
+      "count": 18
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£380,000",
+        "dateSold": "4 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92515,
+      "lng": -1.40556
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145474004-21925033?s=daa2a6d499c282ce7bf898698cb77ed63a41943fc915d1beea9405bb3428ba6c"
+  },
+  {
+    "address": "16, Masefield Avenue, Derby, City Of Derby DE23 1GP",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/21k/20678/142947218/20678_MVY-11777098_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/21k/20678/142947218/20678_MVY-11777098_IMG_00_0000_max_296x197.jpeg",
+      "count": 12
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£175,000",
+        "dateSold": "4 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£137,000",
+        "dateSold": "18 Sep 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£34,500",
+        "dateSold": "11 Dec 1998",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.89481,
+      "lng": -1.49249
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142947218-21925417?s=4c87d23c5df434cf5e3116a7e1dc221c34431137de3a54478602fa2954e23a11"
   },
   {
     "address": "35, Mimosa Crescent, Sunnyhill, Derby, City Of Derby DE23 1WP",
@@ -2324,6 +2346,54 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-151144427-21925582?s=fdcda51abf8d4256abc14ab529c5661c03a46edcdbbceef835cb4c73593354c9"
   },
   {
+    "address": "99, Collingham Gardens, Derby, City Of Derby DE22 4FQ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/82k/81859/61225637/81859_fdbd1_IMG_12_0000_max_135x100.jpg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/82k/81859/61225637/81859_fdbd1_IMG_12_0000_max_296x197.jpg",
+      "count": 14
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£167,000",
+        "dateSold": "1 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£110,000",
+        "dateSold": "15 Oct 2015",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£100,000",
+        "dateSold": "18 Apr 2011",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£98,000",
+        "dateSold": "3 Mar 2006",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£37,000",
+        "dateSold": "29 Oct 1999",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92388,
+      "lng": -1.52368
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-61225637-21925369?s=43eaf75fb78024762e8705fffb21c376bb199e747727a2a2d65d41ed48261060"
+  },
+  {
     "address": "8, Hastings Street, Derby, City Of Derby DE23 6QQ",
     "propertyType": "TERRACED",
     "bedrooms": 2,
@@ -2414,74 +2484,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148953449-21925912?s=2805b1dee899951df678a2df8318e187aa5e9e0e5a65a31c0ceaf5b4c758b52f"
   },
   {
-    "address": "99, Collingham Gardens, Derby, City Of Derby DE22 4FQ",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/82k/81859/61225637/81859_fdbd1_IMG_12_0000_max_135x100.jpg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/82k/81859/61225637/81859_fdbd1_IMG_12_0000_max_296x197.jpg",
-      "count": 14
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£167,000",
-        "dateSold": "1 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£110,000",
-        "dateSold": "15 Oct 2015",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£100,000",
-        "dateSold": "18 Apr 2011",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£98,000",
-        "dateSold": "3 Mar 2006",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£37,000",
-        "dateSold": "29 Oct 1999",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92388,
-      "lng": -1.52368
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-61225637-21925369?s=43eaf75fb78024762e8705fffb21c376bb199e747727a2a2d65d41ed48261060"
-  },
-  {
-    "address": "7, Industrial Street, Derby, City Of Derby DE23 6WU",
-    "propertyType": "TERRACED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£70,000",
-        "dateSold": "1 Nov 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.91093,
-      "lng": -1.47981
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925579?s=2a0886602163b0705ae187e4cb158e77a919af50ca7c2643bb6ceec756011417"
-  },
-  {
     "address": "12, Brooklands Drive, Littleover, Derby, City Of Derby DE23 1DN",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -2510,6 +2512,26 @@
       "lng": -1.50595
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148127915-21925411?s=5603efdf0e713168de86e6c9958585fdb6e72ce945902a44d0f9e7f972de69b2"
+  },
+  {
+    "address": "7, Industrial Street, Derby, City Of Derby DE23 6WU",
+    "propertyType": "TERRACED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£70,000",
+        "dateSold": "1 Nov 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.91093,
+      "lng": -1.47981
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925579?s=2a0886602163b0705ae187e4cb158e77a919af50ca7c2643bb6ceec756011417"
   },
   {
     "address": "29, Northacre Road, Oakwood, Derby, City Of Derby DE21 2TN",
@@ -2596,40 +2618,52 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148517378-21926014?s=277d2cd722afa6297c6741b1bec512bb7c85e6c33e9e238357e3a7a175d6a566"
   },
   {
-    "address": "29, Northacre Road, Oakwood, Derby, City Of Derby DE21 2TN",
-    "propertyType": "DETACHED",
+    "address": "13, Cadwell Close, Alvaston, Derby, City Of Derby DE24 0SH",
+    "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/78k/77088/149239061/77088_386073_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/78k/77088/149239061/77088_386073_IMG_00_0000_max_296x197.jpeg",
-      "count": 14
+      "imageUrl": "https://media.rightmove.co.uk/dir/15k/14722/149212745/14722_LMZ-14423658_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/15k/14722/149212745/14722_LMZ-14423658_IMG_00_0000_max_296x197.jpeg",
+      "count": 11
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£157,000",
+        "displayPrice": "£177,000",
         "dateSold": "31 Oct 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£58,000",
-        "dateSold": "29 Nov 2001",
+        "displayPrice": "£116,500",
+        "dateSold": "28 Aug 2014",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£32,500",
-        "dateSold": "31 Jan 1997",
+        "displayPrice": "£114,950",
+        "dateSold": "16 Dec 2009",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£67,500",
+        "dateSold": "13 Dec 2002",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£37,000",
+        "dateSold": "6 Jul 1999",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.94619,
-      "lng": -1.42522
+      "lat": 52.8903,
+      "lng": -1.41154
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-149239061-21924886?s=eec0d15e218017148650c4c66bb44b0dae65980a0cac7ba9619db0c1423c5c96"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-149212745-21925693?s=1f0c0f39f0bc1464b94a4c2180921e60f7bd29d83e038817ae76db10e7361f45"
   },
   {
     "address": "102, City Road, Derby, City Of Derby DE1 3RR",
@@ -4244,54 +4278,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148297313-21925027?s=0e0d714e6e8dc7741adc42d74d1958bc26ee7e2ac4588a0d84bad0b9a915b28b"
   },
   {
-    "address": "23, Nicola Gardens, Derby, City Of Derby DE23 1NQ",
-    "propertyType": "TERRACED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/88k/87218/154877498/87218_268720_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/88k/87218/154877498/87218_268720_IMG_00_0000_max_296x197.jpeg",
-      "count": 16
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£132,500",
-        "dateSold": "25 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£105,000",
-        "dateSold": "21 Jan 2020",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£94,000",
-        "dateSold": "10 Jul 2015",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£98,000",
-        "dateSold": "24 Mar 2005",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£42,500",
-        "dateSold": "3 Dec 2001",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.88315,
-      "lng": -1.5002
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-154877498-21925450?s=903fccf12b3e824b68cd2566a864f6f70bc6eb8c6d327eaf615dab78443bc9fb"
-  },
-  {
     "address": "195, Vicarage Road, Mickleover, Derby, City Of Derby DE3 0EF",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -4314,6 +4300,54 @@
       "lng": -1.5509
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-135112433-21925939?s=b393aad62d1f475a947151d70645e34e8255851cafff66f17e65145f45ac0cb6"
+  },
+  {
+    "address": "120, Sunny Grove, Chaddesden, Derby, City Of Derby DE21 6WJ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/148297313/7007_JFH-59999919_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/148297313/7007_JFH-59999919_IMG_00_0000_max_296x197.jpeg",
+      "count": 19
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£284,000",
+        "dateSold": "25 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£270,000",
+        "dateSold": "20 May 2022",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£160,000",
+        "dateSold": "23 Aug 2013",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£175,000",
+        "dateSold": "5 Jun 2006",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£50,000",
+        "dateSold": "18 Mar 1998",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92291,
+      "lng": -1.42657
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148297313-21925027?s=0e0d714e6e8dc7741adc42d74d1958bc26ee7e2ac4588a0d84bad0b9a915b28b"
   },
   {
     "address": "11, Cadwell Close, Alvaston, Derby, City Of Derby DE24 0SH",
@@ -4364,6 +4398,48 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-149260826-21925690?s=0685094e5056447e5509e929c32517fd8309c9af7a1e84500f57efc2e3d864fa"
   },
   {
+    "address": "134, Parkway, Chellaston, Derby, City Of Derby DE73 5QA",
+    "propertyType": "FLAT",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946600/11372_LGJ-87959758_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946600/11372_LGJ-87959758_IMG_00_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£148,500",
+        "dateSold": "25 Oct 2024",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£125,000",
+        "dateSold": "23 Jun 2017",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£120,000",
+        "dateSold": "27 Nov 2015",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£122,545",
+        "dateSold": "31 Mar 2006",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.86942,
+      "lng": -1.44361
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142946600-21927847?s=e2029fcaf6f960b44c6d44d2b8cf779e6501308c353101e1b26ca47293205871"
+  },
+  {
     "address": "81, Palmerston Street, Derby, City Of Derby DE23 6PF",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 4,
@@ -4412,46 +4488,34 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147692075-21925549?s=f4482e537a90db1c29235b8427bcd169b695431f7689aa0e0e593e241339d4bb"
   },
   {
-    "address": "134, Parkway, Chellaston, Derby, City Of Derby DE73 5QA",
-    "propertyType": "FLAT",
-    "bedrooms": 2,
+    "address": "10, Prestwick Way, Chellaston, Derby, City Of Derby DE73 5AB",
+    "propertyType": "DETACHED",
+    "bedrooms": 4,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946600/11372_LGJ-87959758_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946600/11372_LGJ-87959758_IMG_00_0000_max_296x197.jpeg",
-      "count": 14
+      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946660/11372_LGJ-24629152_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946660/11372_LGJ-24629152_IMG_00_0000_max_296x197.jpeg",
+      "count": 20
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£148,500",
+        "displayPrice": "£380,000",
         "dateSold": "25 Oct 2024",
-        "tenure": "LEASEHOLD",
+        "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£125,000",
-        "dateSold": "23 Jun 2017",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£120,000",
-        "dateSold": "27 Nov 2015",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£122,545",
-        "dateSold": "31 Mar 2006",
-        "tenure": "LEASEHOLD",
+        "displayPrice": "£229,995",
+        "dateSold": "19 Dec 2003",
+        "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.86942,
-      "lng": -1.44361
+      "lat": 52.87177,
+      "lng": -1.44804
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142946600-21927847?s=e2029fcaf6f960b44c6d44d2b8cf779e6501308c353101e1b26ca47293205871"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142946660-21927841?s=58361b279c5ec85fc861d5353263e50e89c7f0657bedcb25c5e243f330b07618"
   },
   {
     "address": "77, Thackeray Street, Sinfin, Derby, City Of Derby DE24 9GY",
@@ -4482,36 +4546,6 @@
       "lng": -1.47904
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-81965305-21925915?s=88dac2ac7f27b18ff9ec668c7cf1ccfaedf986a485a99d9b2a3efe02f59b5566"
-  },
-  {
-    "address": "10, Prestwick Way, Chellaston, Derby, City Of Derby DE73 5AB",
-    "propertyType": "DETACHED",
-    "bedrooms": 4,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946660/11372_LGJ-24629152_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11372/142946660/11372_LGJ-24629152_IMG_00_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£380,000",
-        "dateSold": "25 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£229,995",
-        "dateSold": "19 Dec 2003",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.87177,
-      "lng": -1.44804
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142946660-21927841?s=58361b279c5ec85fc861d5353263e50e89c7f0657bedcb25c5e243f330b07618"
   },
   {
     "address": "20, Poyser Avenue, Chaddesden, Derby, City Of Derby DE21 4NA",
@@ -4586,32 +4620,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-86872224-21923695?s=fc471d1d6dd8e0f2dc5c1a058149d5f232cb054d96273b139f7b7eb3f894d341"
   },
   {
-    "address": "32, Hungerhill Close, Breadsall, Derby, City Of Derby DE21 4UD",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£245,000",
-        "dateSold": "24 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£202,950",
-        "dateSold": "28 Aug 2020",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94758,
-      "lng": -1.45348
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268475?s=d396584014ac801f72556214055758f30e3bc73fd4c42a97be37d2984c18cc7b"
-  },
-  {
     "address": "92, Boulton Lane, Derby, City Of Derby DE24 0FE",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -4664,6 +4672,32 @@
       "lng": -1.43204
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146890544-94269252?s=8716e1ce4666ae73a29ef148aca79e7b1a9148eebb39af5a92698e0c8d621ed5"
+  },
+  {
+    "address": "32, Hungerhill Close, Breadsall, Derby, City Of Derby DE21 4UD",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£245,000",
+        "dateSold": "24 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£202,950",
+        "dateSold": "28 Aug 2020",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94758,
+      "lng": -1.45348
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268475?s=d396584014ac801f72556214055758f30e3bc73fd4c42a97be37d2984c18cc7b"
   },
   {
     "address": "17, Kingston Street, Derby, City Of Derby DE1 3EZ",
@@ -5656,32 +5690,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21923623?s=a87158f1c8e480fd2f00b7fa682097374e56bb6f89b87c6abed052c39c8db8bc"
   },
   {
-    "address": "174, Magnus Court, Derby, City Of Derby DE21 4TR",
-    "propertyType": "FLAT",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£135,000",
-        "dateSold": "18 Oct 2024",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£132,995",
-        "dateSold": "29 Aug 2008",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.93516,
-      "lng": -1.47119
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21924961?s=d7b2ee39c30259a9b664760217b8627940a8ccc6cc727222b8e63a6964903282"
-  },
-  {
     "address": "10, Paxton Close, Mickleover, Derby, City Of Derby DE3 0TR",
     "propertyType": "DETACHED",
     "bedrooms": 4,
@@ -5778,6 +5786,32 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150381680-21925942?s=c4e1afd3c9dd919b78921f004a63c81cf1a434bfdef7e3be4d3fe6a89a801d3f"
   },
   {
+    "address": "174, Magnus Court, Derby, City Of Derby DE21 4TR",
+    "propertyType": "FLAT",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£135,000",
+        "dateSold": "18 Oct 2024",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£132,995",
+        "dateSold": "29 Aug 2008",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.93516,
+      "lng": -1.47119
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21924961?s=d7b2ee39c30259a9b664760217b8627940a8ccc6cc727222b8e63a6964903282"
+  },
+  {
     "address": "20, Leeway, Spondon, Derby, City Of Derby DE21 7GG",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -5868,6 +5902,60 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148131629-21925852?s=a1e4049fba332e9faa5158d73ff8c01e59448986d8c3772d1b76984dab98c523"
   },
   {
+    "address": "20, Western Road, Mickleover, Derby, City Of Derby DE3 9GN",
+    "propertyType": "DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98549/146701184/98549_33021377_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98549/146701184/98549_33021377_IMG_00_0000_max_296x197.jpeg",
+      "count": 20
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£335,000",
+        "dateSold": "17 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90916,
+      "lng": -1.54216
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146701184-21926044?s=c85f259914196c213b22b35592fae815b17f209ab24a8808802d233fd582afd0"
+  },
+  {
+    "address": "5, Rosyth Crescent, Chellaston, Derby, City Of Derby DE73 5WY",
+    "propertyType": "DETACHED",
+    "bedrooms": 4,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11372/145509416/11372_LGJ-95794509_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11372/145509416/11372_LGJ-95794509_IMG_00_0000_max_296x197.jpeg",
+      "count": 20
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£370,000",
+        "dateSold": "17 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£159,705",
+        "dateSold": "28 Jun 2002",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.86881,
+      "lng": -1.44778
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145509416-21927856?s=27a3de61d840d469f0d032b7cc894a0e0a2289f1ec58a7ee57eba4436e20a9db"
+  },
+  {
     "address": "6, Briar Close, Chaddesden, Derby, City Of Derby DE21 6ZD",
     "propertyType": "DETACHED",
     "bedrooms": 2,
@@ -5914,60 +6002,6 @@
       "lng": -1.42438
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150062408-21925030?s=b07e1cc7bd881299ee855ffd795270619e6df4d6a3439910c0c674a60907c5b0"
-  },
-  {
-    "address": "5, Rosyth Crescent, Chellaston, Derby, City Of Derby DE73 5WY",
-    "propertyType": "DETACHED",
-    "bedrooms": 4,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11372/145509416/11372_LGJ-95794509_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11372/145509416/11372_LGJ-95794509_IMG_00_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£370,000",
-        "dateSold": "17 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£159,705",
-        "dateSold": "28 Jun 2002",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.86881,
-      "lng": -1.44778
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145509416-21927856?s=27a3de61d840d469f0d032b7cc894a0e0a2289f1ec58a7ee57eba4436e20a9db"
-  },
-  {
-    "address": "20, Western Road, Mickleover, Derby, City Of Derby DE3 9GN",
-    "propertyType": "DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98549/146701184/98549_33021377_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98549/146701184/98549_33021377_IMG_00_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£335,000",
-        "dateSold": "17 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.90916,
-      "lng": -1.54216
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146701184-21926044?s=c85f259914196c213b22b35592fae815b17f209ab24a8808802d233fd582afd0"
   },
   {
     "address": "5, Peterlee Place, Alvaston, Derby, City Of Derby DE24 0DN",
@@ -6204,36 +6238,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146232878-21924895?s=af52f3aaeb6f730bf2dff5a4d9f7720ef1abd1290db8070d17c1f891b97c423e"
   },
   {
-    "address": "63, Great Northern Road, Derby, City Of Derby DE1 1LT",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/150155120/104491_NVB-42686181_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/150155120/104491_NVB-42686181_IMG_00_0000_max_296x197.jpeg",
-      "count": 14
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£175,000",
-        "dateSold": "15 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£117,000",
-        "dateSold": "31 Jul 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92052,
-      "lng": -1.49397
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150155120-94266804?s=ccbcc51bbd749afab7ae1d4c55826582ac5e95da2d871e6b27d0109377a83c98"
-  },
-  {
     "address": "26, Beeches Avenue, Spondon, Derby, City Of Derby DE21 7LP",
     "propertyType": "DETACHED",
     "bedrooms": 3,
@@ -6262,6 +6266,36 @@
       "lng": -1.41052
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147866072-94268625?s=d11b71247821cfc17cd95400c80084a94ae671448432f7c7218be9857788a790"
+  },
+  {
+    "address": "63, Great Northern Road, Derby, City Of Derby DE1 1LT",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/150155120/104491_NVB-42686181_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/150155120/104491_NVB-42686181_IMG_00_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£175,000",
+        "dateSold": "15 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£117,000",
+        "dateSold": "31 Jul 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92052,
+      "lng": -1.49397
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150155120-94266804?s=ccbcc51bbd749afab7ae1d4c55826582ac5e95da2d871e6b27d0109377a83c98"
   },
   {
     "address": "12, Martha Road, Derby, Derbyshire DE22 4PB",
@@ -6398,42 +6432,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-55038223-21925234?s=36e42531337c0efa1e991dc20fb7674160fe0499c648d01833bd524f89c8ed31"
   },
   {
-    "address": "52, Fulham Road, Derby, City Of Derby DE22 4GD",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/62k/61544/146336708/61544_27470319_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/62k/61544/146336708/61544_27470319_IMG_00_0000_max_296x197.jpeg",
-      "count": 16
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£160,000",
-        "dateSold": "14 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£66,000",
-        "dateSold": "30 Sep 2003",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£39,000",
-        "dateSold": "30 Nov 2000",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92216,
-      "lng": -1.52013
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146336708-94268979?s=6f200fffa96a59c13fd82a52dc86cbfa104af42805e0a8bbb3303896a0d683d3"
-  },
-  {
     "address": "32, Derrington Leys, Alvaston, Derby, City Of Derby DE24 0SB",
     "propertyType": "TERRACED",
     "bedrooms": 1,
@@ -6506,6 +6504,42 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143555954-94269480?s=f415d74b5ae5093a166447dbfc390eb11466952a23776f672d2a3b9c0e2d7388"
   },
   {
+    "address": "52, Fulham Road, Derby, City Of Derby DE22 4GD",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/62k/61544/146336708/61544_27470319_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/62k/61544/146336708/61544_27470319_IMG_00_0000_max_296x197.jpeg",
+      "count": 16
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£160,000",
+        "dateSold": "14 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£66,000",
+        "dateSold": "30 Sep 2003",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£39,000",
+        "dateSold": "30 Nov 2000",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92216,
+      "lng": -1.52013
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146336708-94268979?s=6f200fffa96a59c13fd82a52dc86cbfa104af42805e0a8bbb3303896a0d683d3"
+  },
+  {
     "address": "16, Lanscombe Park Road, Allestree, Derby, City Of Derby DE22 2XL",
     "propertyType": "DETACHED",
     "bedrooms": 4,
@@ -6576,42 +6610,6 @@
       "lng": -1.43919
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148019213-94268460?s=68affe46991ef44f5814f1cea02bfbe14c614bdd20fd030b18fa97c88183e141"
-  },
-  {
-    "address": "27, Stanhope Road, Mickleover, Derby, City Of Derby DE3 9HG",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98549/148830716/98549_33148262_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98549/148830716/98549_33148262_IMG_00_0000_max_296x197.jpeg",
-      "count": 12
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£215,000",
-        "dateSold": "11 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£146,950",
-        "dateSold": "4 Oct 2013",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£114,000",
-        "dateSold": "21 Jul 2009",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.9127,
-      "lng": -1.53808
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148830716-94269723?s=64acd092dab0d9271228b932378ead12173ebe3c1468b024e3c646661400bcaa"
   },
   {
     "address": "26, Walter Street, Derby, City Of Derby DE1 3PR",
@@ -6768,6 +6766,42 @@
       "lng": -1.55098
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147595508-94269666?s=ea8ecf9cb752ac18a0f2d2334174440c58c9a7d5cff8bd4b0eda0f2c9a0da8f4"
+  },
+  {
+    "address": "27, Stanhope Road, Mickleover, Derby, City Of Derby DE3 9HG",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98549/148830716/98549_33148262_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98549/148830716/98549_33148262_IMG_00_0000_max_296x197.jpeg",
+      "count": 12
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£215,000",
+        "dateSold": "11 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£146,950",
+        "dateSold": "4 Oct 2013",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£114,000",
+        "dateSold": "21 Jul 2009",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.9127,
+      "lng": -1.53808
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148830716-94269723?s=64acd092dab0d9271228b932378ead12173ebe3c1468b024e3c646661400bcaa"
   },
   {
     "address": "10, Oak Drive, Alvaston, Derby, City Of Derby DE24 0FS",
@@ -7014,32 +7048,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147489203-94268385?s=aa39c8c8ae88e3e82070e30de29e4ae4ba9b55903bb3bc8525c37a947a891922"
   },
   {
-    "address": "3, Tonbridge Drive, Alvaston, Derby, City Of Derby DE24 0DH",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£205,000",
-        "dateSold": "11 Oct 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£190,000",
-        "dateSold": "31 Mar 2022",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.88842,
-      "lng": -1.43326
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925636?s=559e3c81f474d4eb50268449b58a158047daf3ef1b809532e35a09eb84d1df58"
-  },
-  {
     "address": "9, Skitteridge Wood Road, Derby, Derbyshire DE22 4PD",
     "propertyType": "TERRACED",
     "bedrooms": null,
@@ -7064,6 +7072,32 @@
       "lng": -1.53985
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94269003?s=96dd1fdb350dbf419f016a13d0651af93bf017046af8fcaeabd398cf95cc7711"
+  },
+  {
+    "address": "3, Tonbridge Drive, Alvaston, Derby, City Of Derby DE24 0DH",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£205,000",
+        "dateSold": "11 Oct 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£190,000",
+        "dateSold": "31 Mar 2022",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.88842,
+      "lng": -1.43326
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925636?s=559e3c81f474d4eb50268449b58a158047daf3ef1b809532e35a09eb84d1df58"
   },
   {
     "address": "41, Lindon Drive, Alvaston, Derby, City Of Derby DE24 0LP",
@@ -7996,8 +8030,12 @@
   {
     "address": "8, Russet Close, Oakwood, Derby, City Of Derby DE21 2LA",
     "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/225k/224069/157473296/224069_33634899_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/225k/224069/157473296/224069_33634899_IMG_00_0000_max_296x197.jpeg",
+      "count": 13
+    },
     "hasFloorPlan": false,
     "transactions": [
       {
@@ -8011,7 +8049,7 @@
       "lat": 52.94078,
       "lng": -1.42261
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268379?s=0b917970563e283ab8c66bb3f866c9fb6964445f3ec7bd762883201ad5123672"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-157473296-94268379?s=1dc6270a3cefc96755ca364a4d560348fe0bd5a063f5808e3ac67b7f60a60cfd"
   },
   {
     "address": "1, Halstock Drive, Alvaston, Derby, City Of Derby DE24 0XZ",
@@ -9286,36 +9324,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145621748-94269210?s=2d5c463227804df9db35f30a6b643c80498700bdba318cc0a13598791a7956a9"
   },
   {
-    "address": "6, Bedford Close, Derby, City Of Derby DE22 3HQ",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/2k/1870/147298961/1870_DBY119174_IMG_08_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/2k/1870/147298961/1870_DBY119174_IMG_08_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£264,000",
-        "dateSold": "27 Sep 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£158,000",
-        "dateSold": "16 Feb 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.91253,
-      "lng": -1.49674
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147298961-21925270?s=d66b97e737e645760723e3b51548f822286520e62351f70164dc7c8dfd1c6afe"
-  },
-  {
     "address": "1, Tawny Way, Littleover, Derby, City Of Derby DE23 3XG",
     "propertyType": "DETACHED",
     "bedrooms": 4,
@@ -9356,6 +9364,36 @@
       "lng": -1.52206
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144147407-21925501?s=496dc696d9cf1655d6b011cd2f29ccf9a2e10098bb185ed6ee9f11a32ae9bc0b"
+  },
+  {
+    "address": "6, Bedford Close, Derby, City Of Derby DE22 3HQ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/2k/1870/147298961/1870_DBY119174_IMG_08_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/2k/1870/147298961/1870_DBY119174_IMG_08_0000_max_296x197.jpeg",
+      "count": 20
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£264,000",
+        "dateSold": "27 Sep 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£158,000",
+        "dateSold": "16 Feb 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.91253,
+      "lng": -1.49674
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147298961-21925270?s=d66b97e737e645760723e3b51548f822286520e62351f70164dc7c8dfd1c6afe"
   },
   {
     "address": "5, Amber Road, Allestree, Derby, City Of Derby DE22 2QB",
@@ -9852,6 +9890,42 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-64563334-94269333?s=0b44392b0398a6fb7404d554e1b012eb2760d6228cc21b6a8b6719adb59d054c"
   },
   {
+    "address": "53, Badgerdale Way, Littleover, Derby, City Of Derby DE23 3ZA",
+    "propertyType": "FLAT",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98630/144680444/98630_DER212499_IMG_11_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98630/144680444/98630_DER212499_IMG_11_0000_max_296x197.jpeg",
+      "count": 15
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£133,000",
+        "dateSold": "26 Sep 2024",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£120,000",
+        "dateSold": "16 May 2022",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£115,595",
+        "dateSold": "21 Dec 2006",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.89773,
+      "lng": -1.52561
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144680444-94269099?s=0f6e1b20873d9b8cd886cdfa0f12b7ad7b1e52521cc7e48c2f0cfc336e11ac51"
+  },
+  {
     "address": "9, Sherwood Avenue, Chaddesden, Derby, City Of Derby DE21 6NP",
     "propertyType": "DETACHED",
     "bedrooms": 2,
@@ -9934,42 +10008,6 @@
       "lng": -1.4266
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146961671-94268556?s=ca293aafe2cfef4899af48f131baa1639a01d46be9b1b90a091f9ab11151c165"
-  },
-  {
-    "address": "53, Badgerdale Way, Littleover, Derby, City Of Derby DE23 3ZA",
-    "propertyType": "FLAT",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98630/144680444/98630_DER212499_IMG_11_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98630/144680444/98630_DER212499_IMG_11_0000_max_296x197.jpeg",
-      "count": 15
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£133,000",
-        "dateSold": "26 Sep 2024",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£120,000",
-        "dateSold": "16 May 2022",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£115,595",
-        "dateSold": "21 Dec 2006",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89773,
-      "lng": -1.52561
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144680444-94269099?s=0f6e1b20873d9b8cd886cdfa0f12b7ad7b1e52521cc7e48c2f0cfc336e11ac51"
   },
   {
     "address": "74, Wilsthorpe Road, Chaddesden, Derby, City Of Derby DE21 4QS",
@@ -10432,30 +10470,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-27816994-94269084?s=d99b147af5c507a8fb8d5033d7478c1d7580f4fef5cceb90335179c61945be86"
   },
   {
-    "address": "35, Ingham Drive, Mickleover, Derby, City Of Derby DE3 0NY",
-    "propertyType": "DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/158k/157085/141868163/157085_32717193_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/158k/157085/141868163/157085_32717193_IMG_00_0000_max_296x197.jpeg",
-      "count": 2
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£400,000",
-        "dateSold": "23 Sep 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.90185,
-      "lng": -1.54459
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-141868163-94269660?s=830d801b6792de8cd6528d95426815f4860de707b04b56b41ed56f9d5fbf31a9"
-  },
-  {
     "address": "14, Wickersley Close, Allestree, Derby, City Of Derby DE22 2XT",
     "propertyType": "DETACHED",
     "bedrooms": 4,
@@ -10484,6 +10498,30 @@
       "lng": -1.48849
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143980622-94268823?s=d8df581cc35d87502d2e2e59f6ad63f73f10da282cf6689c63e3bb7ac3bb10dd"
+  },
+  {
+    "address": "35, Ingham Drive, Mickleover, Derby, City Of Derby DE3 0NY",
+    "propertyType": "DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/158k/157085/141868163/157085_32717193_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/158k/157085/141868163/157085_32717193_IMG_00_0000_max_296x197.jpeg",
+      "count": 2
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£400,000",
+        "dateSold": "23 Sep 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90185,
+      "lng": -1.54459
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-141868163-94269660?s=830d801b6792de8cd6528d95426815f4860de707b04b56b41ed56f9d5fbf31a9"
   },
   {
     "address": "50, Fellside, Spondon, Derby, City Of Derby DE21 7EY",
@@ -10696,6 +10734,26 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-141681875-21636079?s=2ac681a84a7e4e476f1ce64962ab2e0e5c7c4723457a76d6940fe3f875fe423c"
   },
   {
+    "address": "52, Robincroft Road, Allestree, Derby, City Of Derby DE22 2FR",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£360,000",
+        "dateSold": "20 Sep 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.95348,
+      "lng": -1.48704
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268748?s=e2624c27e330f07c736c40471f69892d078de5e71f74822d3ae737c9e5871236"
+  },
+  {
     "address": "42, Northacre Road, Oakwood, Derby, City Of Derby DE21 2TN",
     "propertyType": "TERRACED",
     "bedrooms": 2,
@@ -10742,26 +10800,6 @@
       "lng": -1.42522
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150068165-21635134?s=8b046e962685b537c9681a75ba06497151a8fefd3c0dd8d93a17dcf5e991aec3"
-  },
-  {
-    "address": "52, Robincroft Road, Allestree, Derby, City Of Derby DE22 2FR",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£360,000",
-        "dateSold": "20 Sep 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.95348,
-      "lng": -1.48704
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268748?s=e2624c27e330f07c736c40471f69892d078de5e71f74822d3ae737c9e5871236"
   },
   {
     "address": "32, Broadway, Derby, City Of Derby DE22 1BQ",
@@ -11148,6 +11186,36 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142945016-21635107?s=90923e967dc6baba495571ef3170ea8aea9eaa843913efe32147bf6f339e3ba1"
   },
   {
+    "address": "94, St Andrews View, Derby, City Of Derby DE21 4ET",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/78k/77088/146757344/77088_370546_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/78k/77088/146757344/77088_370546_IMG_00_0000_max_296x197.jpeg",
+      "count": 16
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£170,000",
+        "dateSold": "20 Sep 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£141,000",
+        "dateSold": "18 Feb 2022",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94135,
+      "lng": -1.4476
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146757344-21635152?s=31d65e2e916a44b7745035fae328bbf6482133f4140b7a3afe4a085e7f553625"
+  },
+  {
     "address": "14, Redshaw Street, Derby, City Of Derby DE1 3SG",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -11184,36 +11252,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148875974-21634090?s=0bafb1ea3f8ad743dd0bb4ece2ebf0cca80a628564e7349e93fc1d73337f84f4"
   },
   {
-    "address": "94, St Andrews View, Derby, City Of Derby DE21 4ET",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/78k/77088/146757344/77088_370546_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/78k/77088/146757344/77088_370546_IMG_00_0000_max_296x197.jpeg",
-      "count": 16
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£170,000",
-        "dateSold": "20 Sep 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£141,000",
-        "dateSold": "18 Feb 2022",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94135,
-      "lng": -1.4476
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146757344-21635152?s=31d65e2e916a44b7745035fae328bbf6482133f4140b7a3afe4a085e7f553625"
-  },
-  {
     "address": "16, Clifton Road, Allestree, Derby, City Of Derby DE22 2PH",
     "propertyType": "DETACHED",
     "bedrooms": 4,
@@ -11248,38 +11286,6 @@
       "lng": -1.49529
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142943768-94268790?s=24a0de7bfcdc29863e5793311fe76cecbf1e70779b16573103050bd7fb91d086"
-  },
-  {
-    "address": "25, Clover Close, Spondon, Derby, City Of Derby DE21 7QY",
-    "propertyType": "DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£225,000",
-        "dateSold": "20 Sep 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£125,000",
-        "dateSold": "15 Dec 2014",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£100,000",
-        "dateSold": "14 Feb 2014",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.91998,
-      "lng": -1.39686
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268640?s=6142fde3bd9c1cb5d41256e4f41560d38811c7a29c84f86ccb0c55cb1668f818"
   },
   {
     "address": "43, Langwith Close, Mickleover, Derby, City Of Derby DE3 9DJ",
@@ -11322,6 +11328,38 @@
       "lng": -1.52814
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-65692358-94269711?s=d120716e361610ff11391cfe2e6172a401ed0ef48ae0bb277eaa90d6cbb370da"
+  },
+  {
+    "address": "25, Clover Close, Spondon, Derby, City Of Derby DE21 7QY",
+    "propertyType": "DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£225,000",
+        "dateSold": "20 Sep 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£125,000",
+        "dateSold": "15 Dec 2014",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£100,000",
+        "dateSold": "14 Feb 2014",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.91998,
+      "lng": -1.39686
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268640?s=6142fde3bd9c1cb5d41256e4f41560d38811c7a29c84f86ccb0c55cb1668f818"
   },
   {
     "address": "12, Peers Close, Oakwood, Derby, City Of Derby DE21 2QA",
@@ -11840,6 +11878,36 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-23194664-94269573?s=ec7df381350b003f46694583d5f27685bd9ba155f27d9e2f25c84404c310bf63"
   },
   {
+    "address": "5, Oswestry Close, Oakwood, Derby, City Of Derby DE21 2RF",
+    "propertyType": "DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/258k/257729/86749464/257729_32872920_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/258k/257729/86749464/257729_32872920_IMG_00_0000_max_296x197.jpeg",
+      "count": 31
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£260,000",
+        "dateSold": "13 Sep 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£210,000",
+        "dateSold": "7 Jul 2020",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94734,
+      "lng": -1.42104
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-86749464-21635122?s=a51d7a78c271125757fb0a7cdaa4789e8e5abd5e22b434901813d57815a1b5e0"
+  },
+  {
     "address": "Flat 48, Mill Point, Rowditch Place, Derby, City Of Derby DE22 3LR",
     "propertyType": "FLAT",
     "bedrooms": 2,
@@ -11874,36 +11942,6 @@
       "lng": -1.50098
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145171472-94268853?s=9397d360d52e973da01e275c616826f041cf9d9bdf5044031516cfaa25207167"
-  },
-  {
-    "address": "5, Oswestry Close, Oakwood, Derby, City Of Derby DE21 2RF",
-    "propertyType": "DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/258k/257729/86749464/257729_32872920_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/258k/257729/86749464/257729_32872920_IMG_00_0000_max_296x197.jpeg",
-      "count": 31
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£260,000",
-        "dateSold": "13 Sep 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£210,000",
-        "dateSold": "7 Jul 2020",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94734,
-      "lng": -1.42104
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-86749464-21635122?s=a51d7a78c271125757fb0a7cdaa4789e8e5abd5e22b434901813d57815a1b5e0"
   },
   {
     "address": "4, Whittinglands Close, Chellaston, Derby, City Of Derby DE73 6WG",
@@ -13662,6 +13700,84 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146894507-21635230?s=d4e9fc0bc9f1cc49f1c1a4c18bb9e829666674dfd22bdc3bef797b9cd434bef1"
   },
   {
+    "address": "5, Waldorf Close, Alvaston, Derby, City Of Derby DE24 8UF",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/15k/14722/143723975/14722_LMZ-17903197_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/15k/14722/143723975/14722_LMZ-17903197_IMG_00_0000_max_296x197.jpeg",
+      "count": 20
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£210,000",
+        "dateSold": "30 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£59,950",
+        "dateSold": "4 Jan 2002",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£30,000",
+        "dateSold": "18 May 2001",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.89614,
+      "lng": -1.42945
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143723975-94269477?s=c6c88363a4a517a82b4cc600683ec5d184d9688b7109bc88ccdc8d12a83b6168"
+  },
+  {
+    "address": "9, Jubalton Close, Allenton, Derby, City Of Derby DE24 9BN",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/15k/14722/145946792/14722_LMZ-55007681_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/15k/14722/145946792/14722_LMZ-55007681_IMG_00_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£220,000",
+        "dateSold": "30 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£100,000",
+        "dateSold": "16 Nov 2012",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£67,000",
+        "dateSold": "26 Aug 2004",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£78,000",
+        "dateSold": "7 Aug 2003",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.89028,
+      "lng": -1.44647
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145946792-21635986?s=f9ad57b5feb6df667f482e98445e29941f258144536810da0e413a0cae49ee0e"
+  },
+  {
     "address": "15, Crown Street, Derby, City Of Derby DE22 3UR",
     "propertyType": "TERRACED",
     "bedrooms": 2,
@@ -13732,84 +13848,6 @@
       "lng": -1.43329
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148785374-21635140?s=4627ec9202350d99295506b8a2fea2bdaf3ad1c1061895abcc771056a8a61187"
-  },
-  {
-    "address": "9, Jubalton Close, Allenton, Derby, City Of Derby DE24 9BN",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/15k/14722/145946792/14722_LMZ-55007681_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/15k/14722/145946792/14722_LMZ-55007681_IMG_00_0000_max_296x197.jpeg",
-      "count": 14
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£220,000",
-        "dateSold": "30 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£100,000",
-        "dateSold": "16 Nov 2012",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£67,000",
-        "dateSold": "26 Aug 2004",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£78,000",
-        "dateSold": "7 Aug 2003",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89028,
-      "lng": -1.44647
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145946792-21635986?s=f9ad57b5feb6df667f482e98445e29941f258144536810da0e413a0cae49ee0e"
-  },
-  {
-    "address": "5, Waldorf Close, Alvaston, Derby, City Of Derby DE24 8UF",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/15k/14722/143723975/14722_LMZ-17903197_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/15k/14722/143723975/14722_LMZ-17903197_IMG_00_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£210,000",
-        "dateSold": "30 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£59,950",
-        "dateSold": "4 Jan 2002",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£30,000",
-        "dateSold": "18 May 2001",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89614,
-      "lng": -1.42945
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143723975-94269477?s=c6c88363a4a517a82b4cc600683ec5d184d9688b7109bc88ccdc8d12a83b6168"
   },
   {
     "address": "93b, Shardlow Road, Alvaston, Derby, City Of Derby DE24 0JP",
@@ -14178,30 +14216,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145393454-21635641?s=e7038f7cb754dd1356bc4a970d8303e9211a5584401798f02a1147fd3a531e85"
   },
   {
-    "address": "50, Stockbrook Road, Derby, City Of Derby DE22 3PJ",
-    "propertyType": "TERRACED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11436/146347775/11436_0133_HRT013322271_IMG_01_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11436/146347775/11436_0133_HRT013322271_IMG_01_0000_max_296x197.jpeg",
-      "count": 13
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£126,500",
-        "dateSold": "30 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.9155,
-      "lng": -1.49582
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146347775-94268859?s=6d0b5129922dc6aeda426ae51ad4b3b2d552608f994fbe90aa16685567ef941d"
-  },
-  {
     "address": "42, Denstone Drive, Alvaston, Derby, City Of Derby DE24 0HY",
     "propertyType": "TERRACED",
     "bedrooms": 3,
@@ -14230,6 +14244,30 @@
       "lng": -1.43109
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146523713-94269273?s=f051e7d64c8714e382691b0d86ea29a2d6a8e51157a4f7a367c72a503896b812"
+  },
+  {
+    "address": "50, Stockbrook Road, Derby, City Of Derby DE22 3PJ",
+    "propertyType": "TERRACED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11436/146347775/11436_0133_HRT013322271_IMG_01_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11436/146347775/11436_0133_HRT013322271_IMG_01_0000_max_296x197.jpeg",
+      "count": 13
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£126,500",
+        "dateSold": "30 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.9155,
+      "lng": -1.49582
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146347775-94268859?s=6d0b5129922dc6aeda426ae51ad4b3b2d552608f994fbe90aa16685567ef941d"
   },
   {
     "address": "64, St Marks Road, Derby, City Of Derby DE21 6AL",
@@ -14532,36 +14570,34 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-151855055-94269378?s=994f1eb59033f2a21e839b70f72c94474ab8c6ea2cf0d522a973c705b4c6cda6"
   },
   {
-    "address": "Tranquilla, 15, Ypres Road, Allestree, Derby, City Of Derby DE22 2NA",
-    "propertyType": "DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
+    "address": "29, Rothbury Place, Derby, City Of Derby DE21 4EX",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/146431424/7007_JFH-14516338_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/146431424/7007_JFH-14516338_IMG_00_0000_max_296x197.jpeg",
+      "count": 16
+    },
+    "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£555,000",
+        "displayPrice": "£168,000",
         "dateSold": "28 Aug 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£460,000",
-        "dateSold": "9 Mar 2021",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£340,000",
-        "dateSold": "16 May 2012",
+        "displayPrice": "£84,000",
+        "dateSold": "8 Sep 2006",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.94548,
-      "lng": -1.50693
+      "lat": 52.9409,
+      "lng": -1.4485
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21635401?s=78dcd9c61909a481c96e078dda05dbe2ee7615b0940578ee63a83142578ec3b6"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146431424-21635155?s=502416d9e29f4911851003b6ebd457894c655f67e65593af83dc8de165843b96"
   },
   {
     "address": "26, Denstone Drive, Alvaston, Derby, City Of Derby DE24 0HY",
@@ -14612,6 +14648,38 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-71348617-21635791?s=0b81466f41213fc3235eed281b1b5a56355bba0a4164db08754639b8e264b413"
   },
   {
+    "address": "Tranquilla, 15, Ypres Road, Allestree, Derby, City Of Derby DE22 2NA",
+    "propertyType": "DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£555,000",
+        "dateSold": "28 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£460,000",
+        "dateSold": "9 Mar 2021",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£340,000",
+        "dateSold": "16 May 2012",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94548,
+      "lng": -1.50693
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21635401?s=78dcd9c61909a481c96e078dda05dbe2ee7615b0940578ee63a83142578ec3b6"
+  },
+  {
     "address": "21, Repton Avenue, Derby, City Of Derby DE23 6JN",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -14640,36 +14708,6 @@
       "lng": -1.49613
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145468037-21635680?s=0c58df860f31cc6a3541f5753873047dcee98fd5105ffc804fb4c62953865191"
-  },
-  {
-    "address": "29, Rothbury Place, Derby, City Of Derby DE21 4EX",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/146431424/7007_JFH-14516338_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/146431424/7007_JFH-14516338_IMG_00_0000_max_296x197.jpeg",
-      "count": 16
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£168,000",
-        "dateSold": "28 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£84,000",
-        "dateSold": "8 Sep 2006",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.9409,
-      "lng": -1.4485
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146431424-21635155?s=502416d9e29f4911851003b6ebd457894c655f67e65593af83dc8de165843b96"
   },
   {
     "address": "1, Whittlebury Drive, Littleover, Derby, City Of Derby DE23 3BF",
@@ -15702,6 +15740,36 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144992375-94268502?s=ce4fc209ffa951b7749fdb1b263b927b016196bdafe90269ba36d744921cb93c"
   },
   {
+    "address": "9, Whitmore Road, Chaddesden, Derby, City Of Derby DE21 6HR",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/203k/202880/140592578/202880_1580367-1_IMG_02_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/203k/202880/140592578/202880_1580367-1_IMG_02_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£158,500",
+        "dateSold": "22 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£150,000",
+        "dateSold": "17 Dec 2021",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92847,
+      "lng": -1.44167
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-140592578-21371254?s=51b5126f3f245bb83b0afef27453ba8752da8e9cde6c4e4bfa7dff6503062b54"
+  },
+  {
     "address": "137, Alvaston Street, Alvaston, Derby, City Of Derby DE24 0PB",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -15736,36 +15804,6 @@
       "lng": -1.42111
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145720655-21635806?s=316dde62e5978a7f0e3a7f4cc49f7dca082495dc91363b6c3e4f1bf78c91712d"
-  },
-  {
-    "address": "9, Whitmore Road, Chaddesden, Derby, City Of Derby DE21 6HR",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/203k/202880/140592578/202880_1580367-1_IMG_02_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/203k/202880/140592578/202880_1580367-1_IMG_02_0000_max_296x197.jpeg",
-      "count": 14
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£158,500",
-        "dateSold": "22 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£150,000",
-        "dateSold": "17 Dec 2021",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92847,
-      "lng": -1.44167
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-140592578-21371254?s=51b5126f3f245bb83b0afef27453ba8752da8e9cde6c4e4bfa7dff6503062b54"
   },
   {
     "address": "18, Lyndhurst Grove, Chaddesden, Derby, City Of Derby DE21 6RY",
@@ -16644,6 +16682,128 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21635845?s=7ec232e189313ef080f826b54214c8f96754fef7281c9067d0b3c0d14126ad02"
   },
   {
+    "address": "15, Longford Close, Allestree, Derby, City Of Derby DE22 2RG",
+    "propertyType": "DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/143299574/104491_NVB-53112164_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/143299574/104491_NVB-53112164_IMG_00_0000_max_296x197.jpeg",
+      "count": 12
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£205,000",
+        "dateSold": "16 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94229,
+      "lng": -1.49744
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143299574-21635410?s=270844915e756fc28a40c38375fcfe2bd75b505bb7964b5e467022dd73d175b8"
+  },
+  {
+    "address": "3, Mill Row, Spondon, Derby, City Of Derby DE21 7AS",
+    "propertyType": "TERRACED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£170,000",
+        "dateSold": "16 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£135,000",
+        "dateSold": "20 Jul 2023",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£110,000",
+        "dateSold": "4 Aug 2015",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£129,995",
+        "dateSold": "26 Oct 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£91,995",
+        "dateSold": "13 Feb 2004",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£59,950",
+        "dateSold": "5 Jul 2002",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£25,500",
+        "dateSold": "16 Mar 2001",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.923,
+      "lng": -1.40768
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268577?s=224f3ce697eed2bf29b030096817ee1d9fccaf38d19851b8e9866c59e906d5fd"
+  },
+  {
+    "address": "25, Oakleigh Avenue, Chaddesden, Derby, City Of Derby DE21 6GZ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143677922/7007_JFH-84972924_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143677922/7007_JFH-84972924_IMG_00_0000_max_296x197.jpeg",
+      "count": 12
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£165,000",
+        "dateSold": "16 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£127,500",
+        "dateSold": "9 Oct 2020",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£121,950",
+        "dateSold": "31 Jul 2017",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£102,000",
+        "dateSold": "26 Jun 2015",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92766,
+      "lng": -1.44183
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143677922-21635245?s=66d2fc60ed3837e2aa5eba9d4fd3a3420b53d3d098f8051de631d6abca90cd52"
+  },
+  {
     "address": "147, Parkway, Chellaston, Derby, City Of Derby DE73 5QB",
     "propertyType": "TERRACED",
     "bedrooms": 3,
@@ -16722,46 +16882,28 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-154018169-21371575?s=4213b3086f0bed6c06426cf304eb85ccae84223441f2600dfe3dd4f38fb7ca22"
   },
   {
-    "address": "25, Oakleigh Avenue, Chaddesden, Derby, City Of Derby DE21 6GZ",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
+    "address": "33, Balaclava Road, Derby, City Of Derby DE23 8UL",
+    "propertyType": "TERRACED",
+    "bedrooms": 3,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143677922/7007_JFH-84972924_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143677922/7007_JFH-84972924_IMG_00_0000_max_296x197.jpeg",
-      "count": 12
+      "imageUrl": "https://media.rightmove.co.uk/dir/21k/20678/148317092/20678_MVY-38053669_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/21k/20678/148317092/20678_MVY-38053669_IMG_00_0000_max_296x197.jpeg",
+      "count": 8
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£165,000",
+        "displayPrice": "£120,000",
         "dateSold": "16 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£127,500",
-        "dateSold": "9 Oct 2020",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£121,950",
-        "dateSold": "31 Jul 2017",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£102,000",
-        "dateSold": "26 Jun 2015",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.92766,
-      "lng": -1.44183
+      "lat": 52.89807,
+      "lng": -1.47878
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143677922-21635245?s=66d2fc60ed3837e2aa5eba9d4fd3a3420b53d3d098f8051de631d6abca90cd52"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148317092-21371755?s=288404d67630ffcbfd0ca211edc4cde3a7fe4e61038c22cc961e86fe26730a06"
   },
   {
     "address": "27, Wollaton Road, Chaddesden, Derby, City Of Derby DE21 4HX",
@@ -16792,110 +16934,6 @@
       "lng": -1.43994
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142945190-21635170?s=189ca0a902c0f441842506a54f07b4cdec40ccfdd66abfb39c57f42269e3f04c"
-  },
-  {
-    "address": "15, Longford Close, Allestree, Derby, City Of Derby DE22 2RG",
-    "propertyType": "DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/143299574/104491_NVB-53112164_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/143299574/104491_NVB-53112164_IMG_00_0000_max_296x197.jpeg",
-      "count": 12
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£205,000",
-        "dateSold": "16 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94229,
-      "lng": -1.49744
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143299574-21635410?s=270844915e756fc28a40c38375fcfe2bd75b505bb7964b5e467022dd73d175b8"
-  },
-  {
-    "address": "33, Balaclava Road, Derby, City Of Derby DE23 8UL",
-    "propertyType": "TERRACED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/21k/20678/148317092/20678_MVY-38053669_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/21k/20678/148317092/20678_MVY-38053669_IMG_00_0000_max_296x197.jpeg",
-      "count": 8
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£120,000",
-        "dateSold": "16 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89807,
-      "lng": -1.47878
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148317092-21371755?s=288404d67630ffcbfd0ca211edc4cde3a7fe4e61038c22cc961e86fe26730a06"
-  },
-  {
-    "address": "3, Mill Row, Spondon, Derby, City Of Derby DE21 7AS",
-    "propertyType": "TERRACED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£170,000",
-        "dateSold": "16 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£135,000",
-        "dateSold": "20 Jul 2023",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£110,000",
-        "dateSold": "4 Aug 2015",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£129,995",
-        "dateSold": "26 Oct 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£91,995",
-        "dateSold": "13 Feb 2004",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£59,950",
-        "dateSold": "5 Jul 2002",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£25,500",
-        "dateSold": "16 Mar 2001",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.923,
-      "lng": -1.40768
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94268577?s=224f3ce697eed2bf29b030096817ee1d9fccaf38d19851b8e9866c59e906d5fd"
   },
   {
     "address": "15, Glastonbury Road, Alvaston, Derby, City Of Derby DE24 0YA",
@@ -17972,72 +18010,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-136969025-21635533?s=27f22b88abc23991ccb0de2f3198e2dad95a32a0dd1467bbc740a036911d75fe"
   },
   {
-    "address": "3, Sloane Road, Derby, City Of Derby DE22 4JN",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/23k/22733/144459377/22733_32873770_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/23k/22733/144459377/22733_32873770_IMG_00_0000_max_296x197.jpeg",
-      "count": 19
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£227,000",
-        "dateSold": "9 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£143,800",
-        "dateSold": "17 Jan 2023",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92622,
-      "lng": -1.52425
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144459377-21371572?s=49328fd5362b69cdf5a94baff34509fd43d13a1fd395d66a6b04e82cdaf6d02c"
-  },
-  {
-    "address": "23, Yoxall Drive, Derby, City Of Derby DE22 3SF",
-    "propertyType": "DETACHED",
-    "bedrooms": 4,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/205k/204665/144985067/204665_100953096952_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/205k/204665/144985067/204665_100953096952_IMG_00_0000_max_296x197.jpeg",
-      "count": 23
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£365,000",
-        "dateSold": "9 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£227,500",
-        "dateSold": "12 Jul 2004",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£140,995",
-        "dateSold": "26 Jul 2002",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.91904,
-      "lng": -1.50411
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144985067-21371476?s=9b61cc111aee123a30a95ae8331cedb7eaac3f814103a35a28f5cb4936b0f242"
-  },
-  {
     "address": "83, Falmouth Road, Alvaston, Derby, City Of Derby DE24 0LY",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -18120,6 +18092,72 @@
       "lng": -1.41335
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143247011-21371827?s=022bf4ccc2c5eb87421f49a136919a163297031c199094935de7641030b471df"
+  },
+  {
+    "address": "3, Sloane Road, Derby, City Of Derby DE22 4JN",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/23k/22733/144459377/22733_32873770_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/23k/22733/144459377/22733_32873770_IMG_00_0000_max_296x197.jpeg",
+      "count": 19
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£227,000",
+        "dateSold": "9 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£143,800",
+        "dateSold": "17 Jan 2023",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92622,
+      "lng": -1.52425
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144459377-21371572?s=49328fd5362b69cdf5a94baff34509fd43d13a1fd395d66a6b04e82cdaf6d02c"
+  },
+  {
+    "address": "23, Yoxall Drive, Derby, City Of Derby DE22 3SF",
+    "propertyType": "DETACHED",
+    "bedrooms": 4,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/205k/204665/144985067/204665_100953096952_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/205k/204665/144985067/204665_100953096952_IMG_00_0000_max_296x197.jpeg",
+      "count": 23
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£365,000",
+        "dateSold": "9 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£227,500",
+        "dateSold": "12 Jul 2004",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£140,995",
+        "dateSold": "26 Jul 2002",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.91904,
+      "lng": -1.50411
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144985067-21371476?s=9b61cc111aee123a30a95ae8331cedb7eaac3f814103a35a28f5cb4936b0f242"
   },
   {
     "address": "2, Farmhouse Road, Sinfin, Derby, City Of Derby DE24 3DB",
@@ -18214,46 +18252,30 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94269408?s=67a1118d32d2ea29bf0b0948bd4ae2cac59e4cf56d3618bd26a9183ccfd94eab"
   },
   {
-    "address": "11, West Avenue, Derby, City Of Derby DE1 3HS",
-    "propertyType": "TERRACED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/23k/22733/142835621/22733_32772564_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/23k/22733/142835621/22733_32772564_IMG_00_0000_max_296x197.jpeg",
-      "count": 17
-    },
-    "hasFloorPlan": true,
+    "address": "56, Woodgate Drive, Chellaston, Derby, City Of Derby DE73 6UX",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
     "transactions": [
       {
-        "displayPrice": "£238,000",
+        "displayPrice": "£282,500",
         "dateSold": "8 Aug 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£195,950",
-        "dateSold": "15 Dec 2016",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£170,000",
-        "dateSold": "18 Nov 2014",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£41,500",
-        "dateSold": "4 Aug 1995",
+        "displayPrice": "£215,000",
+        "dateSold": "21 Dec 2016",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.92911,
-      "lng": -1.4848
+      "lat": 52.86558,
+      "lng": -1.43148
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142835621-21634063?s=8d48a8b1b8aba923174f1400568f89348a183cb3cca10cf9110f159ff019e491"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21373609?s=84c27767077715ad0139586ecd8072f29efdae232cd11469e3ff7500f3d0f776"
   },
   {
     "address": "31, Gleadsmoss Lane, Oakwood, Derby, City Of Derby DE21 2BP",
@@ -18298,30 +18320,46 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146493407-21371134?s=20b63eed2bb03eb65fcc2332ef62f576c2b9e3b83122fb0e6d6cb4bd29b93df6"
   },
   {
-    "address": "56, Woodgate Drive, Chellaston, Derby, City Of Derby DE73 6UX",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
+    "address": "11, West Avenue, Derby, City Of Derby DE1 3HS",
+    "propertyType": "TERRACED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/23k/22733/142835621/22733_32772564_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/23k/22733/142835621/22733_32772564_IMG_00_0000_max_296x197.jpeg",
+      "count": 17
+    },
+    "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£282,500",
+        "displayPrice": "£238,000",
         "dateSold": "8 Aug 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£215,000",
-        "dateSold": "21 Dec 2016",
+        "displayPrice": "£195,950",
+        "dateSold": "15 Dec 2016",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£170,000",
+        "dateSold": "18 Nov 2014",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£41,500",
+        "dateSold": "4 Aug 1995",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.86558,
-      "lng": -1.43148
+      "lat": 52.92911,
+      "lng": -1.4848
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21373609?s=84c27767077715ad0139586ecd8072f29efdae232cd11469e3ff7500f3d0f776"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142835621-21634063?s=8d48a8b1b8aba923174f1400568f89348a183cb3cca10cf9110f159ff019e491"
   },
   {
     "address": "181, Portland Street, Derby, City Of Derby DE23 8PH",
@@ -18772,30 +18810,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143050601-21635593?s=2332aca4879d4ac5ff2d5b7d1a403d14c741c619f6df2601e888367b0d809980"
   },
   {
-    "address": "301, Oregon Way, Chaddesden, Derby, City Of Derby DE21 6UR",
-    "propertyType": "DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/139904336/7007_12105005_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/139904336/7007_12105005_IMG_00_0000_max_296x197.jpeg",
-      "count": 10
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£225,000",
-        "dateSold": "5 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92171,
-      "lng": -1.42048
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-139904336-21635275?s=7286293fee184d4616752f023d50e95f5ddcb5f2d060f03ec6a811ba5c1bba7e"
-  },
-  {
     "address": "50, Shakespeare Street, Sinfin, Derby, City Of Derby DE24 9HF",
     "propertyType": "TERRACED",
     "bedrooms": 3,
@@ -18824,6 +18838,30 @@
       "lng": -1.48354
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148011212-21372034?s=7b899eed47913aad92a644cd48cee07ade3a39b72bb3426dec52ce8c63e73364"
+  },
+  {
+    "address": "301, Oregon Way, Chaddesden, Derby, City Of Derby DE21 6UR",
+    "propertyType": "DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/139904336/7007_12105005_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/139904336/7007_12105005_IMG_00_0000_max_296x197.jpeg",
+      "count": 10
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£225,000",
+        "dateSold": "5 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92171,
+      "lng": -1.42048
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-139904336-21635275?s=7286293fee184d4616752f023d50e95f5ddcb5f2d060f03ec6a811ba5c1bba7e"
   },
   {
     "address": "281, Derby Road, Chaddesden, Derby, City Of Derby DE21 6SY",
@@ -19072,84 +19110,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144270980-21635299?s=98d313ee6d64b0b8cce6ffc550dd47d25a15ec326276e5bc3d198b729f665354"
   },
   {
-    "address": "2, Penrith Place, Derby, City Of Derby DE21 4DQ",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/225k/224069/152420261/224069_33371239_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/225k/224069/152420261/224069_33371239_IMG_00_0000_max_296x197.jpeg",
-      "count": 14
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£170,000",
-        "dateSold": "2 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94434,
-      "lng": -1.45188
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-152420261-21635149?s=33442935590df9bbbf021f73a01c1136afc5dd37b86a05944d85940fcf830f99"
-  },
-  {
-    "address": "51, Brunswick Street, Derby, City Of Derby DE23 8TQ",
-    "propertyType": "TERRACED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98630/145450874/98630_DER212487_IMG_07_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98630/145450874/98630_DER212487_IMG_07_0000_max_296x197.jpeg",
-      "count": 15
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£129,000",
-        "dateSold": "2 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£70,000",
-        "dateSold": "29 May 2015",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.90123,
-      "lng": -1.48245
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145450874-21371752?s=2572d624ec2c96196fb5d48ae7df3f20d940bcc55cfc0b9ef28c3e33e5dff196"
-  },
-  {
-    "address": "6, West Road, Spondon, Derby, City Of Derby DE21 7AB",
-    "propertyType": "DETACHED",
-    "bedrooms": 4,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/23k/22733/136942748/22733_32439378_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/23k/22733/136942748/22733_32439378_IMG_00_0000_max_296x197.jpeg",
-      "count": 27
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£485,000",
-        "dateSold": "2 Aug 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92275,
-      "lng": -1.41155
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-136942748-94268568?s=1850cbcb5be514852ef3369decf63a062823119f458395b73f061527b9872574"
-  },
-  {
     "address": "7, Avondale Road, Spondon, Derby, City Of Derby DE21 7AW",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -19216,6 +19176,36 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143480174-21372028?s=2ea2bcc1b6fa9507f4e8a7399ebdbaa58e83c9a7ba76f94cbe912fcbe6e43bfc"
   },
   {
+    "address": "51, Brunswick Street, Derby, City Of Derby DE23 8TQ",
+    "propertyType": "TERRACED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/99k/98630/145450874/98630_DER212487_IMG_07_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/99k/98630/145450874/98630_DER212487_IMG_07_0000_max_296x197.jpeg",
+      "count": 15
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£129,000",
+        "dateSold": "2 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£70,000",
+        "dateSold": "29 May 2015",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90123,
+      "lng": -1.48245
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145450874-21371752?s=2572d624ec2c96196fb5d48ae7df3f20d940bcc55cfc0b9ef28c3e33e5dff196"
+  },
+  {
     "address": "13, Rye Close, Oakwood, Derby, City Of Derby DE21 2BU",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -19264,10 +19254,62 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144840368-21635104?s=ab28a8c39abd3fa4bce403f0f896411066e0a518b8f41b4acb31aa9ff937fd60"
   },
   {
+    "address": "2, Penrith Place, Derby, City Of Derby DE21 4DQ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/225k/224069/152420261/224069_33371239_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/225k/224069/152420261/224069_33371239_IMG_00_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£170,000",
+        "dateSold": "2 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94434,
+      "lng": -1.45188
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-152420261-21635149?s=33442935590df9bbbf021f73a01c1136afc5dd37b86a05944d85940fcf830f99"
+  },
+  {
+    "address": "6, West Road, Spondon, Derby, City Of Derby DE21 7AB",
+    "propertyType": "DETACHED",
+    "bedrooms": 4,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/23k/22733/136942748/22733_32439378_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/23k/22733/136942748/22733_32439378_IMG_00_0000_max_296x197.jpeg",
+      "count": 27
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£485,000",
+        "dateSold": "2 Aug 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92275,
+      "lng": -1.41155
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-136942748-94268568?s=1850cbcb5be514852ef3369decf63a062823119f458395b73f061527b9872574"
+  },
+  {
     "address": "38, Fairfax Road, Derby, City Of Derby DE23 6RW",
     "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/4k/3643/157483886/3643_P3024B5425_IMG_11_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/4k/3643/157483886/3643_P3024B5425_IMG_11_0000_max_296x197.jpeg",
+      "count": 12
+    },
     "hasFloorPlan": false,
     "transactions": [
       {
@@ -19281,7 +19323,7 @@
       "lat": 52.90862,
       "lng": -1.48668
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925561?s=9525288e157c4eaafcced04ba5b08d03a221da93947ee1d9285557cff095c2cb"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-157483886-21925561?s=346cc87241e47f365168c06cd2152541e4ff156ba8b4c6097c1224779395594e"
   },
   {
     "address": "38, Kniveton Close, Derby, City Of Derby DE22 3BB",
@@ -20428,6 +20470,30 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925120?s=f61508d82f318aa94eb9a69569e7230a99c572c5c79aa06e3c0b4347c64e0993"
   },
   {
+    "address": "18, The Hollow, Mickleover, Derby, City Of Derby DE3 0DH",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 4,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/258k/257729/146800952/257729_33027002_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/258k/257729/146800952/257729_33027002_IMG_00_0000_max_296x197.jpeg",
+      "count": 29
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£341,000",
+        "dateSold": "29 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.89941,
+      "lng": -1.54179
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146800952-21372070?s=9bb6a74fc7b0bbfc31a709906dc9e81d99ee6a6fc7f37bf402e7a519dffb0b34"
+  },
+  {
     "address": "25, Holyhead Drive, Oakwood, Derby, City Of Derby DE21 2TD",
     "propertyType": "DETACHED",
     "bedrooms": 3,
@@ -20520,30 +20586,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371728?s=c8678cc861c27d7affd922d009a0f8bf67eeb664cb5fcbe93d7bb619be351529"
   },
   {
-    "address": "18, The Hollow, Mickleover, Derby, City Of Derby DE3 0DH",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 4,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/258k/257729/146800952/257729_33027002_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/258k/257729/146800952/257729_33027002_IMG_00_0000_max_296x197.jpeg",
-      "count": 29
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£341,000",
-        "dateSold": "29 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89941,
-      "lng": -1.54179
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146800952-21372070?s=9bb6a74fc7b0bbfc31a709906dc9e81d99ee6a6fc7f37bf402e7a519dffb0b34"
-  },
-  {
     "address": "15, Balfour Road, Derby, City Of Derby DE23 8UP",
     "propertyType": "TERRACED",
     "bedrooms": 3,
@@ -20592,30 +20634,40 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147202988-21925045?s=31ade7cd1446c3f69953c0a5c887129ce47f8ac297404f2c3ac3b31444347010"
   },
   {
-    "address": "53, Tutbury Avenue, Littleover, Derby, Derbyshire DE23 3UX",
-    "propertyType": "DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
+    "address": "99, Balfour Road, Derby, City Of Derby DE23 8UP",
+    "propertyType": "TERRACED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/54k/53811/53973319/53811_154664_IMG_01_0000_max_135x100.jpg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/54k/53811/53973319/53811_154664_IMG_01_0000_max_296x197.jpg",
+      "count": 6
+    },
     "hasFloorPlan": false,
     "transactions": [
       {
-        "displayPrice": "£370,000",
+        "displayPrice": "£140,000",
         "dateSold": "26 Jul 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£327,500",
-        "dateSold": "27 Apr 2018",
+        "displayPrice": "£78,500",
+        "dateSold": "29 Feb 2012",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£70,000",
+        "dateSold": "16 Jul 2004",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.88734,
-      "lng": -1.53538
+      "lat": 52.89914,
+      "lng": -1.47653
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371653?s=1b0159fc2197808db8a8b185cc36d4a3359fbc5ebc13f4a641fa9c098434a1c3"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-53973319-21100510?s=85462f37df289f918d9441e6033f6539f5508ba7e398528de3a78235077ac126"
   },
   {
     "address": "7, Shaws Green, Derby, City Of Derby DE22 3HF",
@@ -20654,42 +20706,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142943735-21371443?s=3d802bb34aebd8e0766f6c95fa678d5092d6b2d14212e0e7401c6a081fa9df75"
   },
   {
-    "address": "99, Balfour Road, Derby, City Of Derby DE23 8UP",
-    "propertyType": "TERRACED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/54k/53811/53973319/53811_154664_IMG_01_0000_max_135x100.jpg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/54k/53811/53973319/53811_154664_IMG_01_0000_max_296x197.jpg",
-      "count": 6
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£140,000",
-        "dateSold": "26 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£78,500",
-        "dateSold": "29 Feb 2012",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£70,000",
-        "dateSold": "16 Jul 2004",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.89914,
-      "lng": -1.47653
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-53973319-21100510?s=85462f37df289f918d9441e6033f6539f5508ba7e398528de3a78235077ac126"
-  },
-  {
     "address": "60, Birdcage Walk, Derby, City Of Derby DE22 4LD",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 0,
@@ -20724,6 +20740,32 @@
       "lng": -1.53214
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148379099-21635554?s=3c79098616f22abd38608347ef511da9b61beed9b383de69838a236e66882675"
+  },
+  {
+    "address": "53, Tutbury Avenue, Littleover, Derby, Derbyshire DE23 3UX",
+    "propertyType": "DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£370,000",
+        "dateSold": "26 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£327,500",
+        "dateSold": "27 Apr 2018",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.88734,
+      "lng": -1.53538
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371653?s=1b0159fc2197808db8a8b185cc36d4a3359fbc5ebc13f4a641fa9c098434a1c3"
   },
   {
     "address": "31, Keyhaven Close, Derby, City Of Derby DE21 4SQ",
@@ -21892,30 +21934,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146194208-21371713?s=c249102c48765c07e0f2f9f494af51d1b0928b547f522527c03a095bcc5504d5"
   },
   {
-    "address": "20, Montrose Close, Sinfin, Derby, City Of Derby DE24 9LW",
-    "propertyType": "FLAT",
-    "bedrooms": 1,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/2k/1870/143238422/1870_DBY118714_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/2k/1870/143238422/1870_DBY118714_IMG_00_0000_max_296x197.jpeg",
-      "count": 12
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£115,000",
-        "dateSold": "22 Jul 2024",
-        "tenure": "LEASEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.88211,
-      "lng": -1.48892
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143238422-21925924?s=346adf4007f7d653aac889bccc07417776e726cde2a46923f67c67470705c505"
-  },
-  {
     "address": "40, Fife Street, Derby, City Of Derby DE24 8TN",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -21944,6 +21962,56 @@
       "lng": -1.4435
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-89880706-21925840?s=7868bb6fee3ec2780d81694ce8850f45d146f074a0268e05c9bda0cee48e9768"
+  },
+  {
+    "address": "20, Montrose Close, Sinfin, Derby, City Of Derby DE24 9LW",
+    "propertyType": "FLAT",
+    "bedrooms": 1,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/2k/1870/143238422/1870_DBY118714_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/2k/1870/143238422/1870_DBY118714_IMG_00_0000_max_296x197.jpeg",
+      "count": 12
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£115,000",
+        "dateSold": "22 Jul 2024",
+        "tenure": "LEASEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.88211,
+      "lng": -1.48892
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143238422-21925924?s=346adf4007f7d653aac889bccc07417776e726cde2a46923f67c67470705c505"
+  },
+  {
+    "address": "12, Beeston Drive, Littleover, Derby, Derbyshire DE23 3AA",
+    "propertyType": "DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£365,000",
+        "dateSold": "22 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£349,950",
+        "dateSold": "1 Apr 2022",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.8868,
+      "lng": -1.53405
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371641?s=51f406f517af0243991661cf2a0426d17f63b7c7e32a037290bf613077670e76"
   },
   {
     "address": "52, Ballater Close, Sinfin, Derby, City Of Derby DE24 9NH",
@@ -22022,32 +22090,6 @@
       "lng": -1.50268
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147294257-21371404?s=8f028f83ca5ea13ff5103de65612bbe82d70ceb3b7a0920e230e24e52bdfa0ae"
-  },
-  {
-    "address": "12, Beeston Drive, Littleover, Derby, Derbyshire DE23 3AA",
-    "propertyType": "DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£365,000",
-        "dateSold": "22 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£349,950",
-        "dateSold": "1 Apr 2022",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.8868,
-      "lng": -1.53405
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371641?s=51f406f517af0243991661cf2a0426d17f63b7c7e32a037290bf613077670e76"
   },
   {
     "address": "60a, Silverburn Drive, Oakwood, Derby, City Of Derby DE21 2JJ",
@@ -22414,32 +22456,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21635611?s=74328de2ca6537102060d009c642ee613b36f524ccf5c383da5e6ee0e4a16d8d"
   },
   {
-    "address": "77, Molineux Street, Derby, City Of Derby DE23 8HF",
-    "propertyType": "TERRACED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£120,000",
-        "dateSold": "19 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£15,000",
-        "dateSold": "28 Jan 2000",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.90757,
-      "lng": -1.47123
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94269183?s=0829e4cc1cff9724a1eef1dc5686b7a82aca1686b6c753afbe6c0658f00ae360"
-  },
-  {
     "address": "91, Leman Street, Derby, City Of Derby DE22 3UY",
     "propertyType": "TERRACED",
     "bedrooms": 2,
@@ -22474,6 +22490,32 @@
       "lng": -1.48959
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147418943-94268898?s=669a02aa909f19c5ffa7028bdcd227e0aa092cfcf693f7cfab61c5848c6555c6"
+  },
+  {
+    "address": "77, Molineux Street, Derby, City Of Derby DE23 8HF",
+    "propertyType": "TERRACED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£120,000",
+        "dateSold": "19 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£15,000",
+        "dateSold": "28 Jan 2000",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90757,
+      "lng": -1.47123
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-94269183?s=0829e4cc1cff9724a1eef1dc5686b7a82aca1686b6c753afbe6c0658f00ae360"
   },
   {
     "address": "8, Athens Court, Chellaston, Derby, City Of Derby DE73 5BY",
@@ -22512,60 +22554,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144793730-94271460?s=eba76abe40661d00ade756c292b956ce577c345cde672d689a836684264eb711"
   },
   {
-    "address": "58, Alder Close, Oakwood, Derby, City Of Derby DE21 2BS",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 1,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/63k/62428/147774722/62428_101411006500_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/63k/62428/147774722/62428_101411006500_IMG_00_0000_max_296x197.jpeg",
-      "count": 13
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£119,000",
-        "dateSold": "19 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£29,950",
-        "dateSold": "10 Aug 2000",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94728,
-      "lng": -1.44797
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147774722-21924850?s=f7a1cf96481205d0b4f4e041cba17c2026c8f8a73894d2ee08af8933ed779457"
-  },
-  {
-    "address": "7, Beeches Avenue, Spondon, Derby, City Of Derby DE21 7LP",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/142945091/7007_JFH-94133451_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/142945091/7007_JFH-94133451_IMG_00_0000_max_296x197.jpeg",
-      "count": 13
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£230,000",
-        "dateSold": "19 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92158,
-      "lng": -1.41052
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142945091-21925063?s=d81e8495679674ca95d133f5fc9fdfae09debff3660e410e5409bd942dc144cf"
-  },
-  {
     "address": "22, Stafford Drive, Littleover, Derby, Derbyshire DE23 3WG",
     "propertyType": "DETACHED",
     "bedrooms": null,
@@ -22598,28 +22586,58 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925498?s=532ac081c0e70a72c5e57c2f241f6fbd1d4f4bc7a275071c0644540d68bcbd6c"
   },
   {
-    "address": "120, Birchover Way, Allestree, Derby, City Of Derby DE22 2DA",
-    "propertyType": "DETACHED",
-    "bedrooms": 3,
+    "address": "7, Beeches Avenue, Spondon, Derby, City Of Derby DE21 7LP",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/142943750/104491_NVB-77595460_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/142943750/104491_NVB-77595460_IMG_00_0000_max_296x197.jpeg",
-      "count": 14
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/142945091/7007_JFH-94133451_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/142945091/7007_JFH-94133451_IMG_00_0000_max_296x197.jpeg",
+      "count": 13
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£270,000",
+        "displayPrice": "£230,000",
         "dateSold": "19 Jul 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.94614,
-      "lng": -1.49353
+      "lat": 52.92158,
+      "lng": -1.41052
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142943750-21925159?s=20cf323f961408a4bba253c46a9a48c33bced6b40ce68d680dadbfd1679e9c00"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142945091-21925063?s=d81e8495679674ca95d133f5fc9fdfae09debff3660e410e5409bd942dc144cf"
+  },
+  {
+    "address": "58, Alder Close, Oakwood, Derby, City Of Derby DE21 2BS",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 1,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/63k/62428/147774722/62428_101411006500_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/63k/62428/147774722/62428_101411006500_IMG_00_0000_max_296x197.jpeg",
+      "count": 13
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£119,000",
+        "dateSold": "19 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£29,950",
+        "dateSold": "10 Aug 2000",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94728,
+      "lng": -1.44797
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147774722-21924850?s=f7a1cf96481205d0b4f4e041cba17c2026c8f8a73894d2ee08af8933ed779457"
   },
   {
     "address": "32, Warwick Street, Derby, City Of Derby DE24 8WN",
@@ -22682,66 +22700,28 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-146027051-21925858?s=89b3e900392ba659a5e104473ae93d8a8fbe1acc0fa09e1558fc1edce3d7545e"
   },
   {
-    "address": "4, Portland Lane, Chellaston, Derby, Derbyshire DE73 6AN",
+    "address": "120, Birchover Way, Allestree, Derby, City Of Derby DE22 2DA",
     "propertyType": "DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£350,000",
-        "dateSold": "19 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£358,995",
-        "dateSold": "25 Feb 2022",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.86143,
-      "lng": -1.42782
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21637921?s=c5d7fbf3ca380648aa82a48cc2225ad4746650ff7245304ac0a08a5120f4bb9a"
-  },
-  {
-    "address": "13, Sedgebrook Close, Oakwood, Derby, City Of Derby DE21 2DX",
-    "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11436/143276315/11436_0133_HRT013323803_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11436/143276315/11436_0133_HRT013323803_IMG_00_0000_max_296x197.jpeg",
-      "count": 11
+      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104491/142943750/104491_NVB-77595460_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104491/142943750/104491_NVB-77595460_IMG_00_0000_max_296x197.jpeg",
+      "count": 14
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£187,500",
+        "displayPrice": "£270,000",
         "dateSold": "19 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£125,000",
-        "dateSold": "17 Feb 2017",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£46,000",
-        "dateSold": "11 Sep 1998",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.94528,
-      "lng": -1.4413
+      "lat": 52.94614,
+      "lng": -1.49353
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143276315-21371146?s=652cd70cde952c4b69ecc27ac39aebda7ae02152a0e39b681e536a7109d06849"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142943750-21925159?s=20cf323f961408a4bba253c46a9a48c33bced6b40ce68d680dadbfd1679e9c00"
   },
   {
     "address": "6, Forum Close, Alvaston, Derby, City Of Derby DE24 0TH",
@@ -22816,6 +22796,32 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-139322639-21373573?s=539b6f56539717bdd21da2088396b4ec4483f80f338f6c9f5059e24c114fb5e4"
   },
   {
+    "address": "4, Portland Lane, Chellaston, Derby, Derbyshire DE73 6AN",
+    "propertyType": "DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£350,000",
+        "dateSold": "19 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£358,995",
+        "dateSold": "25 Feb 2022",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.86143,
+      "lng": -1.42782
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21637921?s=c5d7fbf3ca380648aa82a48cc2225ad4746650ff7245304ac0a08a5120f4bb9a"
+  },
+  {
     "address": "6, Harrogate Crescent, Derby, City Of Derby DE21 4GN",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -22870,28 +22876,40 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-121534700-21371200?s=05015aec290ca215a7cdfe082af83172321d6d7a6879091803fefe37df8ee965"
   },
   {
-    "address": "15, Petersham Drive, Alvaston, Derby, City Of Derby DE24 0JU",
-    "propertyType": "DETACHED",
-    "bedrooms": 2,
+    "address": "13, Sedgebrook Close, Oakwood, Derby, City Of Derby DE21 2DX",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/194k/193718/144908330/193718_32901957_IMG_14_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/194k/193718/144908330/193718_32901957_IMG_14_0000_max_296x197.jpeg",
-      "count": 14
+      "imageUrl": "https://media.rightmove.co.uk/dir/12k/11436/143276315/11436_0133_HRT013323803_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/12k/11436/143276315/11436_0133_HRT013323803_IMG_00_0000_max_296x197.jpeg",
+      "count": 11
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£303,000",
+        "displayPrice": "£187,500",
         "dateSold": "19 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£125,000",
+        "dateSold": "17 Feb 2017",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£46,000",
+        "dateSold": "11 Sep 1998",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.89205,
-      "lng": -1.42088
+      "lat": 52.94528,
+      "lng": -1.4413
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144908330-94269282?s=7dfa974015c373ba617d1d77b1a8e5682913d5dc2bfbf903bc98b6be12c59157"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143276315-21371146?s=652cd70cde952c4b69ecc27ac39aebda7ae02152a0e39b681e536a7109d06849"
   },
   {
     "address": "33, Radbourne Lane, Mackworth, Derby, City Of Derby DE22 4LU",
@@ -22922,6 +22940,30 @@
       "lng": -1.52927
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-86572395-94268994?s=5653bed5229dda84f263b648f713cbf41d98e379fa1427fef5f5a8072745cb9f"
+  },
+  {
+    "address": "15, Petersham Drive, Alvaston, Derby, City Of Derby DE24 0JU",
+    "propertyType": "DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/194k/193718/144908330/193718_32901957_IMG_14_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/194k/193718/144908330/193718_32901957_IMG_14_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£303,000",
+        "dateSold": "19 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.89205,
+      "lng": -1.42088
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144908330-94269282?s=7dfa974015c373ba617d1d77b1a8e5682913d5dc2bfbf903bc98b6be12c59157"
   },
   {
     "address": "80, Uttoxeter Road, Mickleover, Derby, City Of Derby DE3 9GE",
@@ -24240,6 +24282,26 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143831699-21100057?s=4306283042a38b01caf8a3f344631b71671e86122fa330bac2af9d3154ecebd3"
   },
   {
+    "address": "1, Dalton Avenue, Derby, City Of Derby DE22 3JH",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£194,000",
+        "dateSold": "9 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.91222,
+      "lng": -1.50894
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371446?s=87c151df1cbfb99730cf493d76e0025ce6afbbb6fc5ef46be3265b9d702a16e8"
+  },
+  {
     "address": "395, Baker Street, Alvaston, Derby, City Of Derby DE24 8SJ",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -24268,26 +24330,6 @@
       "lng": -1.44013
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143322185-21100741?s=bc3c7a049e0a1a45d8d72078d8bf5d8bf525181b125c41ee2a0be460c1ce6c3c"
-  },
-  {
-    "address": "1, Dalton Avenue, Derby, City Of Derby DE22 3JH",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£194,000",
-        "dateSold": "9 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.91222,
-      "lng": -1.50894
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371446?s=87c151df1cbfb99730cf493d76e0025ce6afbbb6fc5ef46be3265b9d702a16e8"
   },
   {
     "address": "8, Manor Road, Derby, City Of Derby DE22 3HZ",
@@ -24948,42 +24990,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142943780-21925219?s=602856c2708d09806c484042c2d945a33f4cc192343bb6371948e7cb05fdb7e2"
   },
   {
-    "address": "27, Beaufort Road, Stenson Fields, Derby, Derbyshire DE24 3BA",
-    "propertyType": "TERRACED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/275k/274322/150773357/274322_Beaufort_IMG_09_0000_max_135x100.png",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/275k/274322/150773357/274322_Beaufort_IMG_09_0000_max_296x197.png",
-      "count": 9
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£182,500",
-        "dateSold": "5 Jul 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£118,000",
-        "dateSold": "10 Apr 2006",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£41,000",
-        "dateSold": "16 Mar 2001",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.87246,
-      "lng": -1.50122
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150773357-21371845?s=15967c6df142735c6bd42491b649f5b749933e75a3c6e46206f08c6514a9e446"
-  },
-  {
     "address": "12, Heron Way, Mickleover, Derby, City Of Derby DE3 9XA",
     "propertyType": "DETACHED",
     "bedrooms": 3,
@@ -25018,6 +25024,42 @@
       "lng": -1.52144
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-139694357-21372187?s=59267e8e7d47750d2523b22c652983672c2dd200baafa9f0972b2d924bbbd6f5"
+  },
+  {
+    "address": "27, Beaufort Road, Stenson Fields, Derby, Derbyshire DE24 3BA",
+    "propertyType": "TERRACED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/275k/274322/150773357/274322_Beaufort_IMG_09_0000_max_135x100.png",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/275k/274322/150773357/274322_Beaufort_IMG_09_0000_max_296x197.png",
+      "count": 9
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£182,500",
+        "dateSold": "5 Jul 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£118,000",
+        "dateSold": "10 Apr 2006",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£41,000",
+        "dateSold": "16 Mar 2001",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.87246,
+      "lng": -1.50122
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-150773357-21371845?s=15967c6df142735c6bd42491b649f5b749933e75a3c6e46206f08c6514a9e446"
   },
   {
     "address": "41, Great Northern Road, Derby, City Of Derby DE1 1LR",
@@ -25100,36 +25142,34 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925921?s=45f830d32a1e83bb5a94cc48d5784c1d4228bbe1e4d25aa506c2d64e1eec6de1"
   },
   {
-    "address": "31, Chilson Drive, Mickleover, Derby, City Of Derby DE3 0PG",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
+    "address": "13, Beech Drive, Derby, City Of Derby DE22 1AT",
+    "propertyType": "DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/79k/78824/141925490/78824_32720676_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/79k/78824/141925490/78824_32720676_IMG_00_0000_max_296x197.jpeg",
+      "count": 20
+    },
+    "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£235,000",
+        "displayPrice": "£380,000",
         "dateSold": "4 Jul 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£172,500",
-        "dateSold": "17 Jan 2020",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£103,000",
-        "dateSold": "29 Nov 2002",
+        "displayPrice": "£241,500",
+        "dateSold": "13 Mar 2015",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.91391,
-      "lng": -1.54863
+      "lat": 52.93666,
+      "lng": -1.48516
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21372163?s=ca125c40a6e87a053fc89f00198e5236aba0946cc971a6271bc3554799bed76c"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-141925490-21100147?s=5867b581d0732f2042df639fb79f569dbc3f7f3ad82221608b1cabf311ec24b2"
   },
   {
     "address": "12, Euston Drive, Derby, City Of Derby DE1 3TL",
@@ -25186,34 +25226,36 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-147300701-21098890?s=0d968962ae2e5ccc55615f4a1d9b977074948de8cac222cd89912901f67f4a89"
   },
   {
-    "address": "13, Beech Drive, Derby, City Of Derby DE22 1AT",
-    "propertyType": "DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/79k/78824/141925490/78824_32720676_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/79k/78824/141925490/78824_32720676_IMG_00_0000_max_296x197.jpeg",
-      "count": 20
-    },
-    "hasFloorPlan": true,
+    "address": "31, Chilson Drive, Mickleover, Derby, City Of Derby DE3 0PG",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
     "transactions": [
       {
-        "displayPrice": "£380,000",
+        "displayPrice": "£235,000",
         "dateSold": "4 Jul 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£241,500",
-        "dateSold": "13 Mar 2015",
+        "displayPrice": "£172,500",
+        "dateSold": "17 Jan 2020",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£103,000",
+        "dateSold": "29 Nov 2002",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.93666,
-      "lng": -1.48516
+      "lat": 52.91391,
+      "lng": -1.54863
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-141925490-21100147?s=5867b581d0732f2042df639fb79f569dbc3f7f3ad82221608b1cabf311ec24b2"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21372163?s=ca125c40a6e87a053fc89f00198e5236aba0946cc971a6271bc3554799bed76c"
   },
   {
     "address": "54, Seagrave Close, Oakwood, Derby, City Of Derby DE21 2HZ",
@@ -28616,6 +28658,26 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21925321?s=2cd88f3e275a86c4040b0dafd42a6929309f563ae9f48a2c2715c4e1fc048969"
   },
   {
+    "address": "65, Baseball Drive, Derby, City Of Derby DE23 8NE",
+    "propertyType": "TERRACED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£217,000",
+        "dateSold": "20 Jun 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90432,
+      "lng": -1.46814
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20823169?s=95014bb9c7df61b54dbb28b1ea0809d9386ae0fddeb0768403858c0cbb165924"
+  },
+  {
     "address": "43, Pacific Way, Derby, City Of Derby DE24 1AA",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -28686,26 +28748,6 @@
       "lng": -1.42358
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144699476-21099937?s=a39c0d13003c98803c07f9bf5dbf8e56935e046eff3f6142f079ceb6ea030010"
-  },
-  {
-    "address": "65, Baseball Drive, Derby, City Of Derby DE23 8NE",
-    "propertyType": "TERRACED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£217,000",
-        "dateSold": "20 Jun 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.90432,
-      "lng": -1.46814
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20823169?s=95014bb9c7df61b54dbb28b1ea0809d9386ae0fddeb0768403858c0cbb165924"
   },
   {
     "address": "50, Dickinson Street, Derby, City Of Derby DE24 8WJ",
@@ -30528,6 +30570,36 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-65440518-94269174?s=1797bcc8b87abe9676c04a139fd6a41e45c027d16f57b6a299a16006f29e1bc7"
   },
   {
+    "address": "1, Lexington Road, Chaddesden, Derby, City Of Derby DE21 6UW",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/105k/104765/74880388/104765_LET180182_L_IMG_01_0000_max_135x100.jpg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/105k/104765/74880388/104765_LET180182_L_IMG_01_0000_max_296x197.jpg",
+      "count": 8
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£167,500",
+        "dateSold": "7 Jun 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£75,000",
+        "dateSold": "3 Jul 2013",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92693,
+      "lng": -1.42041
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-74880388-21371281?s=30c79f12712049aebec506bd753b7e711e14d9cda10a14d0ad33203d73cda6b7"
+  },
+  {
     "address": "7, Tower Drive, Derby, Derbyshire DE22 4PP",
     "propertyType": "TERRACED",
     "bedrooms": null,
@@ -30626,44 +30698,6 @@
       "lng": -1.49648
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143789783-20822860?s=314addde427aec45c3da9d5f473d91c60cef8b459e2eda6aa0c1f67b98eb4bc5"
-  },
-  {
-    "address": "81, Grasmere Crescent, Sinfin, Derby, City Of Derby DE24 9HT",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£180,000",
-        "dateSold": "7 Jun 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£146,000",
-        "dateSold": "17 Feb 2017",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£64,500",
-        "dateSold": "8 Jun 2001",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£52,000",
-        "dateSold": "15 May 1998",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.88374,
-      "lng": -1.49024
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20823475?s=0335f1b5fa7ca0000d7c22223e3e1293e8b304f4ff76bfc1c2ba55e38ca00c56"
   },
   {
     "address": "81, Grasmere Crescent, Sinfin, Derby, City Of Derby DE24 9HT",
@@ -31250,84 +31284,76 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144279593-94269039?s=a2507f24c52a11344af35af14231dfe203edc4ae2d30ef7e07dfd8c0ed4d6970"
   },
   {
-    "address": "7, Grandison Close, Derby, Derbyshire DE22 4PA",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£245,000",
-        "dateSold": "31 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£216,500",
-        "dateSold": "15 Dec 2017",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.92764,
-      "lng": -1.54164
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21371584?s=cd7fe9e894400270d50146fd57fff9f26dc1e19ce16b0df98cf3dc4ce2ec1dc3"
-  },
-  {
-    "address": "40, Taylor Street, Derby, City Of Derby DE24 8WP",
+    "address": "178, St Andrews View, Derby, City Of Derby DE21 4EU",
     "propertyType": "TERRACED",
     "bedrooms": 2,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/108k/107581/57450068/107581_101113000670_IMG_01_0000_max_135x100.jpg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/108k/107581/57450068/107581_101113000670_IMG_01_0000_max_296x197.jpg",
-      "count": 5
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£109,500",
-        "dateSold": "31 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.9073,
-      "lng": -1.45264
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-57450068-20823439?s=f6f2ebe88868ab9e2c20e41f25a8694b9e33bcf3843b7aa7ed139104189fda61"
-  },
-  {
-    "address": "26, Keldholme Lane, Alvaston, Derby, City Of Derby DE24 0RY",
-    "propertyType": "TERRACED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/11k/10756/145200668/10756_DYC240064_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/11k/10756/145200668/10756_DYC240064_IMG_00_0000_max_296x197.jpeg",
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143830565/7007_JFH-98416854_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143830565/7007_JFH-98416854_IMG_00_0000_max_296x197.jpeg",
       "count": 11
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£163,000",
+        "displayPrice": "£137,500",
         "dateSold": "31 May 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£36,000",
-        "dateSold": "7 Apr 2000",
+        "displayPrice": "£100,000",
+        "dateSold": "20 May 2020",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.89149,
-      "lng": -1.41687
+      "lat": 52.9428,
+      "lng": -1.44907
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145200668-21100588?s=f35a518712e1cea832099f2f6ded9e9579ee1a0bd92354902290a81d103638e5"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143830565-20822665?s=a56fa3251487e5a145ed3062edb06a3e103d129591b6a0f94500c8cac970eb6f"
+  },
+  {
+    "address": "125, Watson Street, Derby, City Of Derby DE1 3PJ",
+    "propertyType": "TERRACED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/10k/9947/148447457/9947_Watson_IMG_12_0002_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/10k/9947/148447457/9947_Watson_IMG_12_0002_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£160,000",
+        "dateSold": "31 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£135,000",
+        "dateSold": "15 Jun 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£54,000",
+        "dateSold": "28 Apr 2000",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£26,500",
+        "dateSold": "17 Dec 1997",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.92949,
+      "lng": -1.49015
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148447457-20821549?s=322c09d20ed92ef02a46d255670d0e9bd7f394be5d35c1314d4e474918839647"
   },
   {
     "address": "46, Mount Carmel Street, Derby, City Of Derby DE23 6TB",
@@ -31392,76 +31418,84 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20822842?s=43ba3230a9eacc3ec83b6fdbfa054590a0c06a5424fcf4a59299b4e2d2b0a1f8"
   },
   {
-    "address": "125, Watson Street, Derby, City Of Derby DE1 3PJ",
+    "address": "40, Taylor Street, Derby, City Of Derby DE24 8WP",
     "propertyType": "TERRACED",
-    "bedrooms": 3,
+    "bedrooms": 2,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/10k/9947/148447457/9947_Watson_IMG_12_0002_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/10k/9947/148447457/9947_Watson_IMG_12_0002_max_296x197.jpeg",
-      "count": 14
+      "imageUrl": "https://media.rightmove.co.uk/dir/108k/107581/57450068/107581_101113000670_IMG_01_0000_max_135x100.jpg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/108k/107581/57450068/107581_101113000670_IMG_01_0000_max_296x197.jpg",
+      "count": 5
     },
     "hasFloorPlan": false,
     "transactions": [
       {
-        "displayPrice": "£160,000",
+        "displayPrice": "£109,500",
         "dateSold": "31 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£135,000",
-        "dateSold": "15 Jun 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£54,000",
-        "dateSold": "28 Apr 2000",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£26,500",
-        "dateSold": "17 Dec 1997",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.92949,
-      "lng": -1.49015
+      "lat": 52.9073,
+      "lng": -1.45264
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-148447457-20821549?s=322c09d20ed92ef02a46d255670d0e9bd7f394be5d35c1314d4e474918839647"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-57450068-20823439?s=f6f2ebe88868ab9e2c20e41f25a8694b9e33bcf3843b7aa7ed139104189fda61"
   },
   {
-    "address": "178, St Andrews View, Derby, City Of Derby DE21 4EU",
+    "address": "5, Regents Drive, Mickleover, Derby, Derbyshire DE3 0AP",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£250,000",
+        "dateSold": "31 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£215,995",
+        "dateSold": "28 Mar 2019",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90405,
+      "lng": -1.55616
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21100831?s=3f4c0f7470ba85f98108a50527eabdc4587f9c5e13532dc8eb9e1debdc7d5f1a"
+  },
+  {
+    "address": "26, Keldholme Lane, Alvaston, Derby, City Of Derby DE24 0RY",
     "propertyType": "TERRACED",
     "bedrooms": 2,
     "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143830565/7007_JFH-98416854_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/143830565/7007_JFH-98416854_IMG_00_0000_max_296x197.jpeg",
+      "imageUrl": "https://media.rightmove.co.uk/dir/11k/10756/145200668/10756_DYC240064_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/11k/10756/145200668/10756_DYC240064_IMG_00_0000_max_296x197.jpeg",
       "count": 11
     },
     "hasFloorPlan": true,
     "transactions": [
       {
-        "displayPrice": "£137,500",
+        "displayPrice": "£163,000",
         "dateSold": "31 May 2024",
         "tenure": "FREEHOLD",
         "newBuild": false
       },
       {
-        "displayPrice": "£100,000",
-        "dateSold": "20 May 2020",
+        "displayPrice": "£36,000",
+        "dateSold": "7 Apr 2000",
         "tenure": "FREEHOLD",
         "newBuild": false
       }
     ],
     "location": {
-      "lat": 52.9428,
-      "lng": -1.44907
+      "lat": 52.89149,
+      "lng": -1.41687
     },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143830565-20822665?s=a56fa3251487e5a145ed3062edb06a3e103d129591b6a0f94500c8cac970eb6f"
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-145200668-21100588?s=f35a518712e1cea832099f2f6ded9e9579ee1a0bd92354902290a81d103638e5"
   },
   {
     "address": "1, Regency Close, Littleover, Derby, City Of Derby DE23 1TR",
@@ -31762,30 +31796,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143234390-20823211?s=6994bbd77654bff135c27da9b0803fd3c2de4de5ed6c1ffb722e5a0b80b10e53"
   },
   {
-    "address": "497, Stenson Road, Derby, City Of Derby DE23 1LL",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/21k/20678/144685046/20678_MVY-77677696_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/21k/20678/144685046/20678_MVY-77677696_IMG_00_0000_max_296x197.jpeg",
-      "count": 9
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£185,000",
-        "dateSold": "31 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.88585,
-      "lng": -1.49943
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144685046-94269030?s=7ecb2fe1bc46d3c8a20dbc4512f12344878ce3eb35ab2e0674e466c5a89effb9"
-  },
-  {
     "address": "20, Haydn Road, Chaddesden, Derby, City Of Derby DE21 4HR",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 3,
@@ -31814,6 +31824,30 @@
       "lng": -1.43844
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-101021990-94268421?s=2bcdd1bcc217c3f46a85c49813d38d4835ba623eb0e5c321c5c9a4759a098259"
+  },
+  {
+    "address": "497, Stenson Road, Derby, City Of Derby DE23 1LL",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/21k/20678/144685046/20678_MVY-77677696_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/21k/20678/144685046/20678_MVY-77677696_IMG_00_0000_max_296x197.jpeg",
+      "count": 9
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£185,000",
+        "dateSold": "31 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.88585,
+      "lng": -1.49943
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144685046-94269030?s=7ecb2fe1bc46d3c8a20dbc4512f12344878ce3eb35ab2e0674e466c5a89effb9"
   },
   {
     "address": "32, Kingsbury Road, Derby, City Of Derby DE22 4JQ",
@@ -32544,154 +32578,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-143519714-21100939?s=23449d9e15c4df7e5e44a51408c4993f3e47b69d58e80b32607fea18df003707"
   },
   {
-    "address": "12, Harrow Street, Derby, City Of Derby DE24 8WW",
-    "propertyType": "TERRACED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/37k/36740/14901757/36740_GAN487_IMG_01_0000_max_135x100.jpg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/37k/36740/14901757/36740_GAN487_IMG_01_0000_max_296x197.jpg",
-      "count": 12
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£116,000",
-        "dateSold": "24 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£82,000",
-        "dateSold": "18 Feb 2005",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£20,000",
-        "dateSold": "29 Jun 1998",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.90576,
-      "lng": -1.44835
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-14901757-20823442?s=cbecf229264353c49c757b0028b3d753a34811cc4de1a1c67ce3518224de5e0f"
-  },
-  {
-    "address": "17, Wolfscote Close, Oakwood, Derby, City Of Derby DE21 2AQ",
-    "propertyType": "TERRACED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£220,000",
-        "dateSold": "24 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£196,995",
-        "dateSold": "31 Jul 2020",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.94822,
-      "lng": -1.4368
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20822632?s=9f5a2270f25c25d1e284687551d18b11bdf1116a01fdec57774b262d610e066f"
-  },
-  {
-    "address": "44, Worcester Crescent, Derby, City Of Derby DE21 4EQ",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": null,
-    "imageInfo": null,
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£120,000",
-        "dateSold": "24 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.93643,
-      "lng": -1.45347
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21099949?s=77ee4a752745d3bd358b2b07c4edcd71cd0212eb8a08b04aecd424fa9f05e10b"
-  },
-  {
-    "address": "26, King Alfred Street, Derby, City Of Derby DE22 3QJ",
-    "propertyType": "TERRACED",
-    "bedrooms": 3,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/55k/54083/128701550/54083_31920283_IMG_00_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/55k/54083/128701550/54083_31920283_IMG_00_0000_max_296x197.jpeg",
-      "count": 4
-    },
-    "hasFloorPlan": false,
-    "transactions": [
-      {
-        "displayPrice": "£138,000",
-        "dateSold": "24 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£125,000",
-        "dateSold": "4 Jul 2007",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£30,000",
-        "dateSold": "21 Nov 1997",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.91905,
-      "lng": -1.48596
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-128701550-20822893?s=2c1f28a682e6fdc8a183b3c9ace5ece24d44877aff13e9aab05dc627698171e1"
-  },
-  {
-    "address": "42, Longford Street, Derby, City Of Derby DE22 1GH",
-    "propertyType": "TERRACED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/7k/6523/142104605/6523_PRF_DRB_LFSYCL_575_764272960_IMG_00_0001_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/7k/6523/142104605/6523_PRF_DRB_LFSYCL_575_764272960_IMG_00_0001_max_296x197.jpeg",
-      "count": 16
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£165,000",
-        "dateSold": "24 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      },
-      {
-        "displayPrice": "£69,950",
-        "dateSold": "14 Jun 2002",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.93482,
-      "lng": -1.495
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142104605-20822803?s=34ad20a0cc10ff45bc01391a6f11b040b929b5a8efa646160899a9082680312e"
-  },
-  {
     "address": "8, Leawood Gardens, Oakwood, Derby, City Of Derby DE21 2TF",
     "propertyType": "DETACHED",
     "bedrooms": 3,
@@ -32732,6 +32618,154 @@
       "lng": -1.42444
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20617917-20822656?s=327c86e7d341c27de7aca2723d31bd0848f1506e10c79edbb687a57800fad78c"
+  },
+  {
+    "address": "42, Longford Street, Derby, City Of Derby DE22 1GH",
+    "propertyType": "TERRACED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/7k/6523/142104605/6523_PRF_DRB_LFSYCL_575_764272960_IMG_00_0001_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/7k/6523/142104605/6523_PRF_DRB_LFSYCL_575_764272960_IMG_00_0001_max_296x197.jpeg",
+      "count": 16
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£165,000",
+        "dateSold": "24 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£69,950",
+        "dateSold": "14 Jun 2002",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.93482,
+      "lng": -1.495
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-142104605-20822803?s=34ad20a0cc10ff45bc01391a6f11b040b929b5a8efa646160899a9082680312e"
+  },
+  {
+    "address": "17, Wolfscote Close, Oakwood, Derby, City Of Derby DE21 2AQ",
+    "propertyType": "TERRACED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£220,000",
+        "dateSold": "24 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£196,995",
+        "dateSold": "31 Jul 2020",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.94822,
+      "lng": -1.4368
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-20822632?s=9f5a2270f25c25d1e284687551d18b11bdf1116a01fdec57774b262d610e066f"
+  },
+  {
+    "address": "26, King Alfred Street, Derby, City Of Derby DE22 3QJ",
+    "propertyType": "TERRACED",
+    "bedrooms": 3,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/55k/54083/128701550/54083_31920283_IMG_00_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/55k/54083/128701550/54083_31920283_IMG_00_0000_max_296x197.jpeg",
+      "count": 4
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£138,000",
+        "dateSold": "24 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£125,000",
+        "dateSold": "4 Jul 2007",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£30,000",
+        "dateSold": "21 Nov 1997",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.91905,
+      "lng": -1.48596
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-128701550-20822893?s=2c1f28a682e6fdc8a183b3c9ace5ece24d44877aff13e9aab05dc627698171e1"
+  },
+  {
+    "address": "12, Harrow Street, Derby, City Of Derby DE24 8WW",
+    "propertyType": "TERRACED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/37k/36740/14901757/36740_GAN487_IMG_01_0000_max_135x100.jpg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/37k/36740/14901757/36740_GAN487_IMG_01_0000_max_296x197.jpg",
+      "count": 12
+    },
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£116,000",
+        "dateSold": "24 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£82,000",
+        "dateSold": "18 Feb 2005",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      },
+      {
+        "displayPrice": "£20,000",
+        "dateSold": "29 Jun 1998",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.90576,
+      "lng": -1.44835
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-14901757-20823442?s=cbecf229264353c49c757b0028b3d753a34811cc4de1a1c67ce3518224de5e0f"
+  },
+  {
+    "address": "44, Worcester Crescent, Derby, City Of Derby DE21 4EQ",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": null,
+    "imageInfo": null,
+    "hasFloorPlan": false,
+    "transactions": [
+      {
+        "displayPrice": "£120,000",
+        "dateSold": "24 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.93643,
+      "lng": -1.45347
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-21099949?s=77ee4a752745d3bd358b2b07c4edcd71cd0212eb8a08b04aecd424fa9f05e10b"
   },
   {
     "address": "18, Severn Street, Derby, City Of Derby DE24 8UA",
@@ -32854,30 +32888,6 @@
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-151207481-94269078?s=2ff9e3524cff5fd6c40fa0d1283b88b45ba4e255aef05484e3e300148580ba06"
   },
   {
-    "address": "35, Wingfield Drive, Chaddesden, Derby, City Of Derby DE21 4PW",
-    "propertyType": "SEMI_DETACHED",
-    "bedrooms": 2,
-    "imageInfo": {
-      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/144443975/7007_JFH-53181972_IMG_14_0000_max_135x100.jpeg",
-      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/144443975/7007_JFH-53181972_IMG_14_0000_max_296x197.jpeg",
-      "count": 14
-    },
-    "hasFloorPlan": true,
-    "transactions": [
-      {
-        "displayPrice": "£169,000",
-        "dateSold": "24 May 2024",
-        "tenure": "FREEHOLD",
-        "newBuild": false
-      }
-    ],
-    "location": {
-      "lat": 52.93905,
-      "lng": -1.43573
-    },
-    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144443975-21924940?s=b7ced9db4a7c52363a4e1f494089c239efaf05f8bc174af74e9ad205079763e7"
-  },
-  {
     "address": "5, Lichfield Drive, Alvaston, Derby, City Of Derby DE24 8UD",
     "propertyType": "SEMI_DETACHED",
     "bedrooms": 2,
@@ -32924,6 +32934,30 @@
       "lng": -1.43211
     },
     "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-67125832-21925849?s=228ecaf148e7e0eff01c9bc81ccb861164948045cd9262a5f580b220b2ad178b"
+  },
+  {
+    "address": "35, Wingfield Drive, Chaddesden, Derby, City Of Derby DE21 4PW",
+    "propertyType": "SEMI_DETACHED",
+    "bedrooms": 2,
+    "imageInfo": {
+      "imageUrl": "https://media.rightmove.co.uk/dir/8k/7007/144443975/7007_JFH-53181972_IMG_14_0000_max_135x100.jpeg",
+      "mediumImageUrl": "https://media.rightmove.co.uk/dir/8k/7007/144443975/7007_JFH-53181972_IMG_14_0000_max_296x197.jpeg",
+      "count": 14
+    },
+    "hasFloorPlan": true,
+    "transactions": [
+      {
+        "displayPrice": "£169,000",
+        "dateSold": "24 May 2024",
+        "tenure": "FREEHOLD",
+        "newBuild": false
+      }
+    ],
+    "location": {
+      "lat": 52.93905,
+      "lng": -1.43573
+    },
+    "detailUrl": "https://www.rightmove.co.uk/house-prices/details/england-144443975-21924940?s=b7ced9db4a7c52363a4e1f494089c239efaf05f8bc174af74e9ad205079763e7"
   },
   {
     "address": "393, Uttoxeter New Road, Derby, City Of Derby DE22 3HY",
