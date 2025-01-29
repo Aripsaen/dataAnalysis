@@ -119,6 +119,8 @@ def calcular_precio_promedio_reciente(data):
 # Configurar el directorio base relativo al script actual
 directorio_datos = os.path.join(os.path.dirname(__file__), '..', 'datos', 'json')
 directorio_destino =os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json')
+#Carpeta con destino nuevo
+
 
 # Verificar si el directorio base existe
 if not os.path.exists(directorio_datos):
