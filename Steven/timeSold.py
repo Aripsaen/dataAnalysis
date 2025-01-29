@@ -198,7 +198,6 @@ def graficar_top_10(datos, titulo, xlabel):
 # Cargar y graficar los resultados de cada ejercicio
 ejercicios = {
     "promedios_por_ciudad.json": ("Promedio de Años Entre Transacciones", "Años"),
-    "cambios_precio_por_ciudad.json": ("Porcentaje de Cambio de Precio", "Porcentaje (%)"),
     "precios_promedio_recientes.json": ("Precios Promedio Recientes", "Precio Promedio")
 }
 
@@ -219,7 +218,8 @@ for archivo, (titulo, xlabel) in ejercicios.items():
 
 
 # Ruta del archivo JSON (ajústala según tu sistema)
-archivo_json = "dataAnalysis/Steven/json/cambios_precio_por_ciudad.json"
+archivo_json = os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json',"cambios_precio_por_ciudad.json")
+
 
 # Cargar los datos desde el archivo JSON
 with open(archivo_json, "r") as f:
