@@ -3,12 +3,14 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 
+plt.style.use('seaborn-v0_8-darkgrid')
+
 # ¿Cuáles son las diferencias en los precios promedio de las propiedades entre las diferentes zonas o barrios?
 
 # Lista de ciudades (misma que en el script de ruby)
 ciudades = ["london", "birmingham", "leeds", "sheffield", "manchester", "bradford", "bristol", "coventry", "leicester", "nottingham", "stockport", "kingston-upon-hull", "dudley", "newcastle-upon-tyne", "bolton", "walsall", "plymouth", "sunderland", "milton-keynes", "wolverhampton", "rotherham", "southampton", "derby", "northampton", "stoke-on-trent", "oldham", "reading", "luton", "swindon", "york", "portsmouth", "bournemouth", "peterborough", "colchester", "preston", "southend-on-sea", "saint-helens", "norwich", "brighton", "chelmsford", "telford", "huddersfield", "oxford", "middlesbrough", "slough", "poole", "cambridge", "blackpool", "west-bromwich", "exeter", "blackburn", "ipswich", "gloucester", "solihull", "crawley", "basildon", "watford", "eastbourne", "maidstone", "sutton-coldfield", "halifax"]
 # filepath base
-base_path = "dataAnalysis/datos/json"
+base_path = "datos/json"
 
 # filepath de salida
 output_path = os.path.join("dataAnalysis", "analysis","auxiliary_files", "promedios-por-ciudad.csv")

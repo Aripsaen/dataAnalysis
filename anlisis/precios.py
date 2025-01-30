@@ -3,6 +3,7 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 from datetime import datetime
 import os
+import re
 
 # Directorio de datos
 path = os.path.join("datos", "json")
@@ -14,18 +15,28 @@ city_differences = {}
 city_ages = {}
 transaction_counts = defaultdict(int)
 
+def clean_price(price):
+    """Limpia el precio eliminando caracteres no numéricos y manejando errores."""
+    if not isinstance(price, str):
+        return 0.0
+    cleaned_price = re.sub(r"[^\d.]", "", price)  # Elimina cualquier carácter que no sea número o punto decimal
+    return float(cleaned_price) if cleaned_price else 0.0
+
 # Extraer precios, diferencias, antigüedad promedio y contar ventas/compras por año
 for city_dict in cities:
     for city, file_path in city_dict.items():
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
             if isinstance(data, list) and data:
                 for item in data:
                     transactions = item.get("transactions", [])
 
                     if transactions:
-                        initial_price = float(transactions[0].get("displayPrice", "0").replace("\u00a3", "").replace(",", ""))
-                        final_price = float(transactions[-1].get("displayPrice", "0").replace("\u00a3", "").replace(",", ""))
+                        initial_price = clean_price(transactions[0].get("displayPrice", "0"))
+                        # initial_price = float(transactions[0].get("displayPrice", "0").replace("\u00a3", "").replace(",", ""))
+                        final_price = clean_price(transactions[-1].get("displayPrice", "0"))
+                        # final_price = float(transactions[-1].get("displayPrice", "0").replace("\u00a3", "").replace(",", ""))
+                        
 
                         price_difference = final_price - initial_price
 
