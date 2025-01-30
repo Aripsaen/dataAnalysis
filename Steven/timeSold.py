@@ -215,7 +215,7 @@ for archivo, (titulo, xlabel) in ejercicios.items():
         print(f"Archivo {archivo} no encontrado.")
 
 
-
+"""
 # Ruta del archivo JSON (ajústala según tu sistema)
 archivo_json = os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json', "cambios_precio_por_ciudad.json")
 
@@ -251,3 +251,85 @@ ax.legend()
 
 # Mostrar gráfico
 plt.show()
+"""
+
+def obtener_cantidad_ciudades():
+    while True:
+        try:
+            n = int(input("Ingrese la cantidad de ciudades a mostrar (1-50): "))
+            if 1 <= n <= 50:
+                return n
+            else:
+                print("Por favor, ingrese un número entre 1 y 50.")
+        except ValueError:
+            print("Entrada no válida. Ingrese un número entero.")
+
+def graficar_ciudades(num_ciudades, archivo_json="cambios_precio_por_ciudad.json"):
+    directorio_destino = os.path.join(os.path.dirname(__file__), '..', 'Steven', 'json')
+    ruta_archivo = os.path.join(directorio_destino, archivo_json)
+
+    if not os.path.exists(ruta_archivo):
+        print(f"Archivo no encontrado: {ruta_archivo}")
+        fig, ax = plt.subplots(figsize=(8, 5))
+        ax.text(0.5, 0.5, "Archivo no encontrado", fontsize=12, ha='center')
+        ax.set_title(f"{archivo_json} - No encontrado")
+        return fig
+
+    with open(ruta_archivo, "r") as f:
+        datos = json.load(f)
+
+    if not isinstance(datos, dict):
+        print(f"Advertencia: {archivo_json} no tiene el formato esperado (dict).")
+        fig, ax = plt.subplots(figsize=(8, 5))
+        ax.text(0.5, 0.5, "Datos no válidos", fontsize=12, ha='center')
+        ax.set_title(f"{archivo_json} - Formato incorrecto")
+        return fig
+
+    # Caso especial: Gráfica de cambios porcentuales
+    if archivo_json == "cambios_precio_por_ciudad.json":
+        ciudades = list(datos.keys())[:num_ciudades]
+        aumentos = [datos[ciudad].get("porcentaje_aumento", 0) for ciudad in ciudades]
+        disminuciones = [datos[ciudad].get("porcentaje_disminucion", 0) for ciudad in ciudades]
+
+        fig, ax = plt.subplots(figsize=(10, 6))
+        x = range(len(ciudades))
+        width = 0.4
+
+        ax.bar(x, aumentos, width, label="% Aumento", color='skyblue')
+        ax.bar([i + width for i in x], disminuciones, width, label="% Disminución", color='salmon')
+
+        ax.set_xticks([i + width / 2 for i in x])
+        ax.set_xticklabels(ciudades, rotation=45, ha="right")
+
+        ax.set_xlabel("Ciudades")
+        ax.set_ylabel("Porcentaje")
+        ax.set_title("Porcentaje de Aumento y Disminución de Precios (Primeras {} Ciudades)".format(num_ciudades))
+        ax.legend()
+
+        return fig
+
+    # Para otros JSONs, extraer valores generales
+    datos_filtrados = {ciudad: valor for ciudad, valor in datos.items() if isinstance(valor, (int, float))}
+    datos_ordenados = sorted(datos_filtrados.items(), key=lambda x: x[1], reverse=True)
+    ciudades_seleccionadas = datos_ordenados[:num_ciudades]
+    ciudades = [ciudad[0] for ciudad in ciudades_seleccionadas]
+    valores = [ciudad[1] for ciudad in ciudades_seleccionadas]
+
+    if not valores:
+        print(f"Advertencia: No hay datos numéricos en {archivo_json}.")
+        fig, ax = plt.subplots(figsize=(8, 5))
+        ax.text(0.5, 0.5, "Sin datos disponibles", fontsize=12, ha='center')
+        ax.set_title(f"{archivo_json} - Sin datos")
+        return fig
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+    ax.bar(ciudades, valores, color='skyblue')
+
+    ax.set_xticks(range(len(ciudades)))
+    ax.set_xticklabels(ciudades, rotation=45, ha="right")
+
+    ax.set_xlabel("Ciudades")
+    ax.set_ylabel("Valor")
+    ax.set_title(f"Gráfico basado en {archivo_json}")
+
+    return fig
